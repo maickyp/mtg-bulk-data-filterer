@@ -1,0 +1,5182 @@
+[
+  {
+    "name": "South Wind Avatar",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Creature — Snake Spirit Avatar",
+    "oracle_text": "Deathtouch\nWhenever another creature you control dies, you gain life equal to its toughness.\nWhenever you gain life, each opponent loses 1 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Deathtouch"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Don & Raph, Hard Science",
+    "mana_cost": "{1}{U/R}{U/R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Menace\nWhenever Don & Raph attack, the next noncreature spell you cast this turn has affinity for artifacts. (It costs {1} less to cast for each artifact you control.)",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "4",
+    "tags": []
+  },
+  {
+    "name": "Foe-liage",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Plant Mutant",
+    "oracle_text": "Whenever a land enters during your turn, put a +1/+1 counter on this creature.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Illegitimate Business",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {B} or {G}.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "G"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "April O'Neil, Human Element",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Detective",
+    "oracle_text": "Whenever a player casts an artifact, instant, or sorcery spell, you create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "5",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Rock Soldiers",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Artifact Creature — Elemental Soldier",
+    "oracle_text": "When this creature enters, destroy up to one target noncreature artifact.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Courier of Comestibles",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Citizen",
+    "oracle_text": "When this creature enters, you may search your library for a Food card, reveal it, put it into your hand, then shuffle. If you don't put a card into your hand this way, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Food"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Hamato Ninpō",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Hamato Ninpō deals 4 damage to target attacking or blocking creature.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Foot Headquarters",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {W} or {B}.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "W"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Tunnel Rats",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Rat",
+    "oracle_text": "{4}{B}: Return this card from your graveyard to the battlefield tapped.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Mind Transfer Protocol",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Until end of turn, target artifact or creature becomes an artifact creature with base power and toughness 4/5.\nDraw a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Turncoat Kunoichi",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Mutant Ninja Fox",
+    "oracle_text": "Sneak {2}{W}{B} (You may cast this spell for {2}{W}{B} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)\nWhen this creature enters, choose target creature an opponent controls. Exile that creature until this creature leaves the battlefield. If this creature's sneak cost was paid, instead exile the chosen creature.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Stomped by the Foot",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Kicker—Sacrifice an artifact or creature. (You may sacrifice an artifact or creature in addition to any other costs as you cast this spell.)\nTarget creature gets -2/-2 until end of turn. If this spell was kicked, that creature gets -5/-5 until end of turn instead.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Kicker"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Zoo Escapees",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Boar Rhino",
+    "oracle_text": "When this creature leaves the battlefield, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Tempestra, Dame of Games",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Elemental Illusion",
+    "oracle_text": "{2}{R}, {T}, Sacrifice an artifact: Create a token that's a copy of another target creature you control, except it isn't legendary. It gains haste. Sacrifice it at the beginning of the next end step.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Leader's Talent",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Class",
+    "oracle_text": "(Gain the next level as a sorcery to add its ability.)\nWhenever you attack, put a +1/+1 counter on target attacking creature.\n{2}{W}: Level 2\nWhenever a creature you control leaves the battlefield, if it had a counter on it, you gain 2 life.\n{3}{W}: Level 3\nWhenever you cast a spell, put a +1/+1 counter on each creature you control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Bot Bashing Time",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Bot Bashing Time deals 6 damage to target creature. If that creature would die this turn, exile it instead.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Turtle Power!",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Flash\nTurtles you control get +2/+2.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": []
+  },
+  {
+    "name": "Mikey & Mona, Mutant Sitters",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle Lizard",
+    "oracle_text": "When Mikey & Mona enter, choose one or both. Each mode must target a different player.\n• Target player chooses a creature they control and puts two +1/+1 counters on it.\n• Target player returns a creature or land card from their graveyard to their hand.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Michelangelo, Weirdness to 11",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "When Michelangelo enters, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")\nIf one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Continue?",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose up to four target creature cards in your graveyard that were put there from the battlefield this turn. Return them to the battlefield.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Michelangelo, Improviser",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Sneak {2}{G}{G} (You may cast this spell for {2}{G}{G} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nWhenever Michelangelo deals combat damage to a player, you may put a creature card and/or a land card from your hand onto the battlefield.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Donatello's Technique",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Sneak {U} (You may cast this spell for {U} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nDraw two cards.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Donatello, Way with Machines",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Flying\nWhenever an artifact you control enters, put a +1/+1 counter on Donatello.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Donatello, the Brains",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "If one or more tokens would be created under your control, those tokens plus a Mutagen token are created instead.\nPartner—Character select (You can have two commanders if both have this ability.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Partner"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "April, Reporter of the Weird",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Detective",
+    "oracle_text": "Whenever April deals combat damage to a player, draw that many cards, then discard a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Genghis Frog",
+    "mana_cost": "{G}{U}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Frog Mutant Rogue",
+    "oracle_text": "Trample\nWhenever Genghis Frog or another Mutant you control enters, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Leatherhead, Iron Gator",
+    "mana_cost": "{5}{G}{G}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Crocodile Mutant Rogue",
+    "oracle_text": "Trample, haste\nWhenever Leatherhead attacks, put two +1/+1 counters on each creature you control.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Haste",
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Casey Jones, Asphalt Hooligan",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Berserker",
+    "oracle_text": "Double strike (This creature deals both first-strike and regular combat damage.)\n{4}: Double Casey Jones's power until end of turn. Any player may activate this ability.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Double strike",
+      "Double"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Foot Chopper",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "When this Equipment enters, create a 1/1 black Ninja creature token, then attach this Equipment to it.\nEquipped creature has flying.\nWhenever equipped creature deals combat damage to a player, you may sacrifice it. If you do, draw cards equal to its power.\nEquip {2}",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Cool but Rude",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Class",
+    "oracle_text": "(Gain the next level as a sorcery to add its ability.)\nWhenever you attack, you may discard a card. If you do, draw a card.\n{1}{R}: Level 2\nWhenever you discard a card, this Class deals 2 damage to each opponent.\n{1}{R}: Level 3\nWhen this Class becomes level 3, search your library for a card, put it into your hand, shuffle, then discard a card at random.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Henchbots",
+    "mana_cost": "{4}",
+    "cmc": 4.0,
+    "type_line": "Artifact Creature — Robot",
+    "oracle_text": "When this creature enters, exile target tapped creature an opponent controls until this creature leaves the battlefield.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Foot Mystic",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Ninja Warlock",
+    "oracle_text": "Lifelink\nDisappear — When this creature enters, if a permanent left the battlefield under your control this turn, create a 1/1 black Ninja creature token.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Disappear",
+      "Lifelink"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Token Generation",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Ray Fillet, Wave Warrior",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Fish Mutant",
+    "oracle_text": "Flying\nEvolve (Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\nWhenever a creature you control with a counter on it deals combat damage to a player, draw a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Evolve"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "0",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Lita, Little Orphan Amphibian",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Alliance — Whenever another creature you control enters, choose one that hasn't been chosen this turn.\n• Put a +1/+1 counter on Lita.\n• Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n• Scry 1.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Alliance",
+      "Food",
+      "Scry"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Raphael, the Muscle",
+    "mana_cost": "{4}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Double all damage that creatures you control with counters on them would deal.\nWhen Raphael enters, create a Mutagen token.\nPartner—Character select (You can have two commanders if both have this ability.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Partner",
+      "Double"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Krang & Shredder",
+    "mana_cost": "{4}{U/B}{U/B}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Utrom Human Ninja",
+    "oracle_text": "Whenever Krang & Shredder enter or attack, each opponent exiles cards from the top of their library until they exile a nonland card.\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, you may cast a card exiled with Krang & Shredder without paying its mana cost.",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "keywords": [
+      "Disappear"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "7",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Prehistoric Pet",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Creature — Dinosaur Ninja",
+    "oracle_text": "This creature can't be blocked by creatures with greater power.\n{1}{W}, {T}: Return another target creature you control to its owner's hand. Activate only during your turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Sewer-veillance Cam",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Artifact",
+    "oracle_text": "Flash\nWhen this artifact enters or leaves the battlefield, you may tap or untap target creature.\n{3}{U}, Sacrifice this artifact: Draw two cards.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Triceraton Regenta",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Dinosaur Noble",
+    "oracle_text": "Vigilance (Attacking doesn't cause this creature to tap.)\nWhenever this creature attacks, untap up to one other target creature.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Dimension X Pizzasaur",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Artifact Creature — Food Alien Mutant",
+    "oracle_text": "When this creature enters, put two +1/+1 counters on target creature. When you do, destroy up to one target creature with mana value less than or equal to the number of counters among permanents you control.\n{2}, {T}, Sacrifice this creature: You gain 3 life and each opponent loses 3 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Mana Ramp"
+    ]
+  },
+  {
+    "name": "Ninja Teen",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Enchantment — Class",
+    "oracle_text": "(Gain the next level as a sorcery to add its ability.)\nWhenever a creature you control leaves the battlefield, each opponent loses 1 life.\n{1}{B}: Level 2\nCreatures you control get +1/+0 and have menace.\n{B}: Level 3\nCreature cards in your graveyard have sneak {3}{B}.\nYou may cast creature spells from your graveyard using their sneak abilities.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Raphael, Tough Turtle",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Alliance — Whenever another creature you control enters, Raphael deals 1 damage to target opponent.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Alliance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Krang, Utrom Warlord",
+    "mana_cost": "{9}",
+    "cmc": 9.0,
+    "type_line": "Legendary Artifact Creature — Utrom Robot",
+    "oracle_text": "Flying, trample, indestructible, haste\nOther artifact creatures you control have flying, trample, indestructible, and haste.",
+    "color_identity": [],
+    "keywords": [
+      "Flying",
+      "Indestructible",
+      "Haste",
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "9",
+    "toughness": "9",
+    "tags": [
+      "Protection",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Lord Dregg, Insect Invader",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Insect Warrior",
+    "oracle_text": "Flying\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, create a 1/1 black Insect Warrior creature token with flying.\n{3}{G}, Sacrifice a token: Draw a card.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Flying",
+      "Disappear"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Mechanized Ninja Cavalry",
+    "mana_cost": "{1}{R/W}",
+    "cmc": 2.0,
+    "type_line": "Artifact Creature — Robot Ninja",
+    "oracle_text": "When this creature enters, create a 1/1 colorless Robot artifact creature token.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "EPF Point Squad",
+    "mana_cost": "{1}{R/W}{R/W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "Alliance — Whenever another creature you control enters, put a +1/+1 counter on this creature.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Alliance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Foot Ninjas",
+    "mana_cost": "{4}{W/B}{W/B}",
+    "cmc": 6.0,
+    "type_line": "Creature — Human Ninja",
+    "oracle_text": "Sneak {3}{W/B} (You may cast this spell for {3}{W/B} if you also return an unblocked attacker you control to hand during the declare blockers step. It enters tapped and attacking.)\nWhen this creature enters, you gain 3 life.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Squirrelanoids",
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Creature — Squirrel Mutant",
+    "oracle_text": "Deathtouch",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Deathtouch"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Leonardo, Leader in Blue",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Sneak {3}{W}{W} (You may cast this spell for {3}{W}{W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nWhen Leonardo enters, if his sneak cost was paid, creatures you control get +2/+0 until end of turn.\n{1}{W}: Leonardo gains first strike until end of turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Manhole Cover",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact",
+    "oracle_text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen this artifact enters, target creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)\n{2}, Sacrifice this artifact: Target player draws a card.",
+    "color_identity": [],
+    "keywords": [
+      "Flash"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Protection"
+    ]
+  },
+  {
+    "name": "Wingnut, Bat on the Belfry",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Bat Mutant",
+    "oracle_text": "Alliance — Whenever another creature you control enters, Wingnut gains your choice of flying, menace, or haste until end of turn.\nWhenever Wingnut attacks, each other attacking creature gets +1/+0 until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Alliance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Bebop, Warthog Warrior",
+    "mana_cost": "{4}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Boar Mutant Warrior",
+    "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nRhinos you control have menace.\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Landcycling",
+      "Menace",
+      "Typecycling",
+      "Cycling",
+      "Swampcycling"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "5",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Putrid Pals",
+    "mana_cost": "{2}{B/G}{B/G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Ooze Mutant",
+    "oracle_text": "Deathtouch\nDisappear — This creature enters with two +1/+1 counters on it if a permanent left the battlefield under your control this turn.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Disappear",
+      "Deathtouch"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Insectoid Exterminator",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Insect Mutant",
+    "oracle_text": "Flying\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Scry",
+      "Flying",
+      "Disappear"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Definitely Not a Turtle",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Creature — Mutant Ninja Turtle",
+    "oracle_text": "When this creature dies, look at the top six cards of your library. You may reveal a land or legendary Turtle card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Chrome Dome",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact Creature — Robot Ninja",
+    "oracle_text": "Other artifact creatures you control get +1/+0.\n{5}: Create a token that's a copy of another target artifact you control. That token gains haste. Sacrifice it at the beginning of the next end step.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Kitsune's Technique",
+    "mana_cost": "{4}{U}{U}",
+    "cmc": 6.0,
+    "type_line": "Instant",
+    "oracle_text": "Sneak {1}{U} (You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nTarget opponent mills half their library, rounded up.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Mill",
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "April O'Neil, Kunoichi Trainee",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Ninja",
+    "oracle_text": "When April O'Neil enters, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)\nApril O'Neil can't be blocked by creatures with power 3 or greater.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Scry"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Mouser Foundry",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Artifact",
+    "oracle_text": "When this artifact enters or leaves the battlefield, create a 1/1 colorless Robot artifact creature token.\n{4}{R}, Sacrifice this artifact: It deals 3 damage to target creature.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Weather Maker",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "Landfall — Whenever a land you control enters, put a charge counter on this artifact.\n{T}: Add one mana of any color.\n{T}, Remove two charge counters from this artifact: Add {C}{C}.\n{T}, Remove three charge counters from this artifact: It deals 3 damage to any target.",
+    "color_identity": [],
+    "keywords": [
+      "Landfall"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "C",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "TCRI Building",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {U} or {R}.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "produced_mana": [
+      "R",
+      "U"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Splinter, Hamato Yoshi",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Rat",
+    "oracle_text": "Sneak {B} (You may cast this spell for {B} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nMenace (This creature can't be blocked except by two or more creatures.)\nOther Ninjas you control get +1/+1.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Menace",
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Michelangelo's Technique",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Sneak {3}{G} (You may cast this spell for {3}{G} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nLook at the top eight cards of your library. Put up to two creature cards with total mana value 6 or less from among them onto the battlefield and the rest on the bottom of your library in a random order.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp"
+    ]
+  },
+  {
+    "name": "Buzz Bots",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Artifact Creature — Robot Insect",
+    "oracle_text": "Flying, vigilance\nWhen this creature dies, draw a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Vigilance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Ravenous Robots",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Artifact Creature — Robot",
+    "oracle_text": "Whenever you cast an artifact spell, create a 1/1 colorless Robot artifact creature token.\n{R}, {T}: Creature tokens you control gain haste until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Splinter, Aging Champion",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Rat",
+    "oracle_text": "When Splinter enters, destroy up to one target tapped creature.\nWhen Splinter leaves the battlefield, you and another target player each draw a card.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Triceraton Commander",
+    "mana_cost": "{X}{X}{W}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Dinosaur Soldier",
+    "oracle_text": "Flying\nWhenever this creature attacks, Dinosaurs you control other than this creature get +1/+1 and gain flying until end of turn.\nWhen this creature enters, create X 2/2 white Dinosaur Soldier creature tokens.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Krang, the All-Powerful",
+    "mana_cost": "{4}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Artifact Creature — Utrom Robot",
+    "oracle_text": "If a player drawing a card causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.\nWhenever a player draws their second card each turn, put a +1/+1 counter on Krang.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Leonardo, the Balance",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Whenever a token you control enters, you may put a +1/+1 counter on each creature you control. Do this only once each turn.\n{W}{U}{B}{R}{G}: Creatures you control gain menace, trample, and lifelink until end of turn.\nPartner—Character select (You can have two commanders if both have this ability.)",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Partner"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Token Generation",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Go Ninja Go",
+    "mana_cost": "{R}{W}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Choose one or both —\n• Exile target creature you control, then return it to the battlefield under its owner's control.\n• Go Ninja Go deals damage equal to the greatest power among creatures you control to target creature an opponent controls.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Mutagen Man, Living Ooze",
+    "mana_cost": "{X}{G}{G}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Ooze Mutant",
+    "oracle_text": "Trample\nActivated abilities of artifact tokens you control cost {1} less to activate.\nWhen Mutagen Man enters, create X Mutagen tokens. (They're artifacts with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Monster Mashup",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Werewolf Fish Zombie Vampire",
+    "oracle_text": "Reach (This creature can block creatures with flying.)\nMenace (This creature can't be blocked except by two or more creatures.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Reach",
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "April O'Neil, Live on the Scene",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Detective",
+    "oracle_text": "Whenever a Mutant, Ninja, or Turtle you control enters, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nPartner—Character select",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Investigate",
+      "Partner"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Turtle Tracks",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Any number of target players may each search their library for a basic land card, put it onto the battlefield under their control, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Null Group Biological Assets",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Mutant Mercenary",
+    "oracle_text": "During your turn, this creature has first strike.\nWhenever this creature attacks, you may discard a card. If you do, draw a card.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Improvised Arsenal",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature gets +1/+0 for each artifact you control.\n{4}{R}: Create a token that's a copy of this Equipment.\nEquip {R}",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Rocksteady, Mutant Marauder",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Rhino Mutant",
+    "oracle_text": "Partner with Bebop, Skull & Crossbones (When this creature enters, target player may put Bebop into their hand from their library, then shuffle.)\nTrample\nWhenever another nontoken creature you control enters, put a +1/+1 counter on target creature.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Partner with",
+      "Partner",
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Technodrome",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact Creature — Construct",
+    "oracle_text": "Reach, trample\nThis creature can't attack or block unless its power is 6 or greater.\n{T}, Sacrifice another artifact: Draw a card. Put a +1/+1 counter on this creature.",
+    "color_identity": [],
+    "keywords": [
+      "Reach",
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Lessons from Life",
+    "mana_cost": "{2}{G}{U}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Draw three cards. You may put a land card from your hand onto the battlefield tapped.",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Krang, Master Mind",
+    "mana_cost": "{6}{U}{U}",
+    "cmc": 8.0,
+    "type_line": "Legendary Artifact Creature — Utrom Warrior",
+    "oracle_text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nWhen Krang enters, if you have fewer than four cards in hand, draw cards equal to the difference.\nKrang gets +1/+0 for each other artifact you control.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Affinity"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Mikey & Don, Party Planners",
+    "mana_cost": "{2}{G/U}{G/U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Ward {2}\nYou may look at the top card of your library any time.\nYou may play lands and cast Mutant, Ninja, or Turtle spells from the top of your library. If you cast a creature spell this way, that creature enters with an additional +1/+1 counter on it.",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [
+      "Ward"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Protection",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Splinter's Technique",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Sneak {1}{B} (You may cast this spell for {1}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nSearch your library for a card, put that card into your hand, then shuffle.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Raph & Leo, Sibling Rivals",
+    "mana_cost": "{1}{R/W}{R/W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Whenever Raph & Leo attack, if it's the first combat phase of the turn, untap one or two target attacking creatures. After this phase, there is an additional combat phase.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "4",
+    "tags": []
+  },
+  {
+    "name": "Ninja Pizza",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Foods you control have \"{T}, Sacrifice this artifact: Add one mana of any color.\"\nAt the beginning of your second main phase, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Food"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Michelangelo, Game Master",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, put a +1/+1 counter on Michelangelo.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Disappear"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Bebop, Skull & Crossbones",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Boar Mutant",
+    "oracle_text": "Partner with Rocksteady, Mutant Marauder (When this creature enters, target player may put Rocksteady into their hand from their library, then shuffle.)\nDeathtouch\nWhenever Bebop deals combat damage to a player, you may draw X cards, where X is the number of counters on Bebop. If you do, you lose X life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Partner with",
+      "Partner",
+      "Deathtouch"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Shredder, Unrelenting",
+    "mana_cost": "{4}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Ninja",
+    "oracle_text": "Sneak {3}{B} (You may cast this spell for {3}{B} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nDeathtouch\nWhenever Shredder enters or attacks, another target creature you control gains deathtouch until end of turn.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Sneak",
+      "Deathtouch"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "6",
+    "toughness": "4",
+    "tags": [
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Raphael, Tag Team Tough",
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhenever Raphael deals combat damage to a player for the first time each turn, untap all attacking creatures. After this combat phase, there is an additional combat phase.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "5",
+    "toughness": "6",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Frog Butler",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Frog Spirit",
+    "oracle_text": "Deathtouch\n{T}: Add one mana of any color.\n{2}: This creature gains reach until end of turn.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Deathtouch"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Shredder's Revenge",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Choose one —\n• Target player discards two cards.\n• Target player draws two cards and loses 2 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Primordial Pachyderm",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Elephant Avatar",
+    "oracle_text": "Reach, trample\nWhen this creature enters, you gain 2 life.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Reach",
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Anchovy & Banana Pizza",
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4.0,
+    "type_line": "Artifact — Food",
+    "oracle_text": "When this artifact enters, destroy target creature.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Savanti Romero, Time's Exile",
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Demon Wizard",
+    "oracle_text": "Trample\nAt the beginning of combat on your turn, put a +1/+1 counter on Savanti Romero. Then you draw X cards and lose X life, where X is the number of counters on Savanti Romero.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Tainted Treats",
+    "mana_cost": "{1}{B}{G}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Destroy target artifact or creature. If its mana value was 4 or less, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Food"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Mana Ramp",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Leonardo, Big Brother",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Sneak {W} (You may cast this spell for {W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nLeonardo gets +1/+0 for each other creature you control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Donatello, Rad Scientist",
+    "mana_cost": "{5}{U}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Vigilance (Attacking doesn't cause this creature to tap.)\nWhen Donatello enters, tap up to three target creatures your opponents control. Put a stun counter on each of them. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "5",
+    "toughness": "6",
+    "tags": [
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Bespoke Bō",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "When this Equipment enters, return up to one other target nonland permanent to its owner's hand.\nEquipped creature gets +2/+1 and has vigilance.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Super Combo",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Replicate {2} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget creature you control deals damage equal to its power to target creature an opponent controls.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Replicate"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": []
+  },
+  {
+    "name": "Ray Fillet, Man Ray",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Fish Mutant",
+    "oracle_text": "Flying\nWhen Ray Fillet enters, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")\n{2}, Remove a +1/+1 counter from a creature you control: Draw a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "The Last Ronin's Technique",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Instant",
+    "oracle_text": "Sneak {1}{W} (You may cast this spell for {1}{W} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nCreate three 1/1 white Ninja Turtle Spirit creature tokens. If this spell's sneak cost was paid, they enter tapped and attacking.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Renet, Temporal Apprentice",
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Wizard",
+    "oracle_text": "Flash\nWhen Renet enters, return each other nonland permanent that entered this turn to its owner's hand.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "3",
+    "tags": []
+  },
+  {
+    "name": "Novel Nunchaku",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "When this Equipment enters, attach it to target creature you control. When you do, equipped creature fights up to one target creature an opponent controls. (Each deals damage equal to its power to the other.)\nEquipped creature gets +1/+1 and has trample.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Fight",
+      "Equip"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Ragamuffin Raptor",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Creature — Dinosaur",
+    "oracle_text": "When this creature enters, return up to one target creature or Food card from your graveyard to your hand.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Karai, Future of the Foot",
+    "mana_cost": "{1}{W}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Ninja",
+    "oracle_text": "Sneak {2}{W}{B} (You may cast this spell for {2}{W}{B} if you also return an unblocked attacker you control to hand during the declare blockers step. She enters tapped and attacking.)\nWhenever Karai deals combat damage to a player, return target creature card from your graveyard to your hand. If her sneak cost was paid this turn, instead return that card to the battlefield.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Omni-Cheese Pizza",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact — Food",
+    "oracle_text": "When this artifact enters, draw a card.\n{1}, {T}, Sacrifice this artifact: Add one mana of any color.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Madame Null, Power Broker",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Demon Advisor",
+    "oracle_text": "Deathtouch\nWhenever another creature you control enters, you may pay life equal to its power. If you do, put that many +1/+1 counters on it.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Deathtouch"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Leonardo, Sewer Samurai",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle Samurai",
+    "oracle_text": "Sneak {2}{W}{W}\nDouble strike\nDuring your turn, you may cast creature spells with power or toughness 1 or less from your graveyard. If you cast a spell this way, that creature enters with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Double strike",
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Special Move",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose two —\n• Jump Kick — Destroy target artifact.\n• Dash Attack — Put two +1/+1 counters on target attacking or blocking creature you control.\n• Foot Toss — Target creature you control deals damage equal to its power to any other target. Then sacrifice it.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Foot Toss",
+      "Dash Attack",
+      "Jump Kick"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Endless Foot Assault",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Squad {1}{W} (As an additional cost to cast this spell, you may pay {1}{W} any number of times. When this enchantment enters, create that many tokens that are copies of it.)\nWhenever you attack, for each opponent, create a 1/1 black Ninja creature token that's tapped and attacking that player.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Squad"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Raph's Bravado",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "During your turn, attacking creatures get +1/+0.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "uncommon",
+    "tags": []
+  },
+  {
+    "name": "Featherbrained Filcher",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Creature — Bird Mutant",
+    "oracle_text": "Flying\nWhen this creature leaves the battlefield, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Food"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "0",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Donnie & April, Adorkable Duo",
+    "mana_cost": "{4}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Mutant Ninja Human Turtle",
+    "oracle_text": "When Donnie & April enter, choose one or both. Each mode must target a different player.\n• Target player draws two cards.\n• Target player returns an artifact, instant, or sorcery card from their graveyard to their hand.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Venus, Torn Between Worlds",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Mutant Frog Turtle",
+    "oracle_text": "Whenever Venus is dealt damage, put that many +1/+1 counters on her. (She must survive the damage to get the counters.)\nWhenever a creature you control with a counter on it deals combat damage to a player, you may pay {U}. If you do, draw a card.",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Metalhead",
+    "mana_cost": "{4}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Artifact Creature — Robot Turtle",
+    "oracle_text": "When Metalhead enters, return up to one other target artifact or creature to its owner's hand.\n{R}, Sacrifice another artifact: Put a +1/+1 counter on Metalhead. He gains menace and haste until end of turn.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Swift Demise",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Swift Demise deals 1 damage to target creature. Then destroy each creature you don't control that was dealt damage this turn.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Saved by the Shell",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "This spell costs {1} less to cast if you control a Turtle.\nPut a +1/+1 counter on target creature you control. It gains trample, hexproof, and indestructible until end of turn.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Protection",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Turtles in Time",
+    "mana_cost": "{5}{U}{U}",
+    "cmc": 7.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Return all creatures to their owners' hands. Each player may shuffle their hand and graveyard into their library, then each player who does draws seven cards.\nExile Turtles in Time.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Raph & Mikey, Troublemakers",
+    "mana_cost": "{5}{R/G}{R/G}",
+    "cmc": 7.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Trample, haste\nWhenever Raph & Mikey attack, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield tapped and attacking and the rest on the bottom of your library in a random order.",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Haste",
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "7",
+    "toughness": "7",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Exploding Barrel",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Add one mana of any color. Put a pressure counter on this artifact.\n{8}, {T}, Sacrifice this artifact: It deals 20 damage to target creature. This ability costs {1} less to activate for each pressure counter on this artifact. Activate only as a sorcery.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "The Ooze",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Legendary Artifact",
+    "oracle_text": "Whenever a creature you control with a +1/+1 counter on it leaves the battlefield, create a Mutagen token for each +1/+1 counter on it. (A Mutagen token is an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")\n{T}: Exile target card from a graveyard. Create a Mutagen token.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "High-Flying Ace",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Bird Mutant",
+    "oracle_text": "Flying\n{3}{W}: Target creature without flying gains flying until end of turn. Activate only as a sorcery.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Dimension X",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {R} or {W}.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "produced_mana": [
+      "R",
+      "W"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Tokka & Rahzar, Terrible Twos",
+    "mana_cost": "{B/R}{B/R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Turtle Wolf Mutant",
+    "oracle_text": "This spell can't be countered.\nMenace\nWhenever a player casts a spell, if the amount of mana spent to cast it was less than its mana value, Tokka & Rahzar deal 3 damage to that player.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Mana Ramp"
+    ]
+  },
+  {
+    "name": "Level Up",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nWhen this Aura enters, put a +1/+1 counter on enchanted creature.\nEnchanted creature has \"Whenever this creature attacks, double the number of +1/+1 counters on it. Then if it has power 10 or greater, draw a card.\"",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Enchant",
+      "Double"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Utrom Scientists",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Artifact Creature — Utrom Robot Scientist",
+    "oracle_text": "When this creature enters, tap up to one target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Slash, Reptile Rampager",
+    "mana_cost": "{3}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Mutant Berserker Turtle",
+    "oracle_text": "Alliance — Whenever another creature you control enters, Slash deals 2 damage to each opponent.\nWhenever Slash attacks, create a 2/2 red Mutant creature token.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Alliance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "7",
+    "toughness": "5",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Raphael, the Nightwatcher",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Sneak {1}{R}{R} (You may cast this spell for {1}{R}{R} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nAttacking creatures you control have double strike.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Tokka & Rahzar, Unsupervised",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Turtle Wolf Mutant",
+    "oracle_text": "First strike\nWhenever another nontoken creature you control leaves the battlefield, put a +1/+1 counter on Tokka & Rahzar and create a Treasure token. This ability triggers only once each turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "First strike",
+      "Treasure"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Party Dude",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Enchantment — Class",
+    "oracle_text": "(Gain the next level as a sorcery to add its ability.)\nWhen this Class enters, each player creates a Food token.\n{1}{G}: Level 2\nWhenever an artifact an opponent controls is put into a graveyard from the battlefield, draw a card.\n{4}{G}: Level 3\nWhenever one or more of your opponents are attacked, up to one target attacking creature gets +X/+X until end of turn, where X is the number of cards in your hand.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Food"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Dimensional Exile",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant basic land you control\nWhen this Aura enters, exile target creature an opponent controls until this Aura leaves the battlefield.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Paramecia Coloniex",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Zombie Worm",
+    "oracle_text": "When this creature enters, mill three cards. (Put the top three cards of your library into your graveyard.)\nWhen this creature dies, you may exile it. When you do, put target creature card from your graveyard on top of your library.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Mill"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Jennika's Technique",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Sneak {R} (You may cast this spell for {R} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nJennika's Technique deals 2 damage to each creature.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Ticked Off",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "common",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "West Wind Avatar",
+    "mana_cost": "{5}{G}{G}",
+    "cmc": 7.0,
+    "type_line": "Creature — Cat Spirit Avatar",
+    "oracle_text": "Trample\nWhenever this creature enters or attacks, you may sacrifice a token or a land. If you do, you gain 3 life.\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, draw a card.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Disappear",
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "7",
+    "toughness": "7",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Leonardo, Cutting Edge",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Sneak {W} (You may cast this spell for {W} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nLifelink\nWhenever you gain life, put a +1/+1 counter on Leonardo.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Lifelink",
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Token Generation",
+      "Stax",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Baxter, Fly in the Ointment",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Insect Mutant Scientist",
+    "oracle_text": "Whenever Baxter enters or attacks, each creature you control with a counter on it gains flying until end of turn.\nWhenever you draw a card, put a +1/+1 counter on Baxter.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Big Mother Mouser",
+    "mana_cost": "{4}",
+    "cmc": 4.0,
+    "type_line": "Artifact Creature — Robot",
+    "oracle_text": "This creature enters with two +1/+1 counters on it.\nWhenever this creature attacks, double the number of +1/+1 counters on it.\nWhen this creature dies, create a number of 1/1 colorless Robot artifact creature tokens equal to the number of +1/+1 counters on this creature.",
+    "color_identity": [],
+    "keywords": [
+      "Double"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "0",
+    "toughness": "0",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Leonardo, Worldly Warrior",
+    "mana_cost": "{7}{W}",
+    "cmc": 8.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Affinity for creatures (This spell costs {1} less to cast for each creature you control.)\nDouble strike (This creature deals both first-strike and regular combat damage.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Affinity",
+      "Double strike"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Spicy Oatmeal Pizza",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Food",
+    "oracle_text": "When this artifact enters, it deals 4 damage to any target and 3 damage to you.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Utrom Monitor",
+    "mana_cost": "{4}{U}",
+    "cmc": 5.0,
+    "type_line": "Artifact Creature — Utrom Scientist",
+    "oracle_text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying (This creature can't be blocked except by creatures with flying or reach.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Affinity"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Uneasy Alliance",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nEnchanted creature can't attack or block.\n{5}, Sacrifice this Aura: Exile enchanted creature. You create a 1/1 black Ninja creature token. Activate only as a sorcery.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Grounded for Life",
+    "mana_cost": "{4}{W}",
+    "cmc": 5.0,
+    "type_line": "Instant",
+    "oracle_text": "This spell costs {3} less to cast if it targets a tapped creature.\nDestroy target creature.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Kitsune, Dragon's Daughter",
+    "mana_cost": "{4}{U}{U}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Fox Warlock Avatar",
+    "oracle_text": "Vigilance\nWhenever Kitsune enters or deals combat damage to a player, you may exchange control of two other target creatures controlled by different players.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "6",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Heroes in a Half Shell",
+    "mana_cost": "{W}{U}{B}{R}{G}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Vigilance, menace, trample, haste\nWhenever one or more Mutants, Ninjas, and/or Turtles you control deal combat damage to a player, put a +1/+1 counter on each of those creatures and draw a card.",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Vigilance",
+      "Haste",
+      "Trample",
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Mutant Town Musicians",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Mutant Bard Performer",
+    "oracle_text": "Trample\nAlliance — Whenever another creature you control enters, this creature gets +1/+0 until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Alliance",
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Mona Lisa, Ever Adaptable",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Lizard Mutant",
+    "oracle_text": "Whenever a player casts a creature spell, you create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Tenderize",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature you control deals damage equal to its power to target creature an opponent controls.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": []
+  },
+  {
+    "name": "Bebop & Rocksteady",
+    "mana_cost": "{1}{B/G}{B/G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Boar Rhino Mutant",
+    "oracle_text": "Whenever Bebop & Rocksteady attack or block, sacrifice a permanent unless you discard a card.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "7",
+    "toughness": "5",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Dream Beavers",
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Creature — Beaver Nightmare",
+    "oracle_text": "Flying\nWhen this creature enters, each opponent loses 1 life and you gain 1 life. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Scry",
+      "Flying"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Cowabunga!",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Look at the top four cards of your library. You may reveal a Mutant, Ninja, Turtle, or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Return to the Sewers",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature's owner puts it on their choice of the top or bottom of their library. You create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Electric Seaweed",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Plant Wall",
+    "oracle_text": "Defender, haste\nWhen this creature enters, until end of turn, whenever another creature dies, this creature deals 1 damage to each non-Wall creature.\n{T}: This creature deals 1 damage to any target.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Haste",
+      "Defender"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "0",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Don & Leo, Problem Solvers",
+    "mana_cost": "{3}{W/U}{W/U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Vigilance\nAt the beginning of your end step, exile up to one target artifact you control and up to one target creature you control. Then return them to the battlefield under their owners' control.",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "6",
+    "tags": [
+      "Removal",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Rat King, Verminister",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Rat Avatar",
+    "oracle_text": "Disappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, create a 1/1 black Rat creature token and put a +1/+1 counter on Rat King.\n{T}, Sacrifice three Rats: Return target creature card and all other cards with the same name as that card from your graveyard to the battlefield tapped.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Disappear"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Mikey & Leo, Chaos & Order",
+    "mana_cost": "{G/W}{G/W}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Whenever you put a counter on a creature you control, draw a card. This ability triggers only once each turn.",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Arcade Cabinet",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "When this artifact enters, put a +1/+1 counter on each of up to four target creatures.\n{2}, {T}, Sacrifice a token: Double the number of each kind of counter on target creature.",
+    "color_identity": [],
+    "keywords": [
+      "Double"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Action News Crew",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Citizen",
+    "oracle_text": "Vigilance\nChannel — {6}, Discard this card: Put a +1/+1 counter on each creature you control. Draw a card.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Vigilance",
+      "Channel"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Everything Pizza",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact — Food",
+    "oracle_text": "When this artifact enters, search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n{2}{W}{U}{B}{R}{G}, {T}, Sacrifice this artifact: Target player gains 3 life and draws a card. Each of your opponents discards a card. This artifact deals 3 damage to any target. Put three +1/+1 counters on up to one target creature.",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Hard-Won Jitte",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature has double strike.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Casey Jones, Back Alley Brute",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Berserker",
+    "oracle_text": "Menace\nWhenever Casey Jones attacks, put a +1/+1 counter on target attacking creature.\nWhenever you put one or more +1/+1 counters on a creature you control, Casey Jones deals that much damage to target opponent.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "2",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Mouser Mark III",
+    "mana_cost": "{1}{U/R}",
+    "cmc": 2.0,
+    "type_line": "Artifact Creature — Robot",
+    "oracle_text": "This creature can't attack unless you control another artifact.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "General Traag, Heart of Stone",
+    "mana_cost": "{3}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Artifact Creature — Elemental Soldier",
+    "oracle_text": "Trample\nWhen General Traag enters, you may sacrifice another artifact. When you do, General Traag deals 4 damage to target creature.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Turtle Van",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Vehicle",
+    "oracle_text": "Whenever this Vehicle attacks, put a +1/+1 counter on target creature that crewed it this turn. Then if that creature is a Mutant, Ninja, or Turtle, double the number of +1/+1 counters on it.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "color_identity": [],
+    "keywords": [
+      "Crew",
+      "Double"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Brilliance Unleashed",
+    "mana_cost": "{4}{U}{R}",
+    "cmc": 6.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Choose one or both —\n• Brilliance Unleashed deals 5 damage to target creature.\n• Choose target artifact card in your graveyard. Return it to the battlefield if it's an artifact creature card. Otherwise, return it to the battlefield and it's a 3/3 Robot artifact creature with flying.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "The Neutrinos",
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Elf Rebel",
+    "oracle_text": "Flying\nAlliance — Whenever another creature you control enters, The Neutrinos get +1/+0 until end of turn.\nWhenever The Neutrinos attack, exile up to one target creature you own, then return it to the battlefield under your control tapped and attacking.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Alliance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Crustacean Commando",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Crab Mutant Soldier",
+    "oracle_text": "When this creature enters, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "0",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "North Wind Avatar",
+    "mana_cost": "{2}{U}{U}{R}",
+    "cmc": 5.0,
+    "type_line": "Creature — Dragon Spirit Avatar",
+    "oracle_text": "Flying\nWhen this creature enters, if you cast it, you may put a card you own from outside the game into your hand.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Casey Jones, Jury-Rig Justiciar",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Berserker",
+    "oracle_text": "Haste\nWhen Casey Jones enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Haste"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Sally Pride, Lioness Leader",
+    "mana_cost": "{3}{W}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Cat Mutant Rebel",
+    "oracle_text": "When Sally Pride enters, create X 2/2 red Mutant creature tokens, where X is the number of nontoken creatures you control.\nWhenever Sally Pride attacks, put a +1/+1 counter on each creature you control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Jennika, Bad Apple Big Sister",
+    "mana_cost": "{4}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "When Jennika enters, create a 2/2 red Mutant creature token.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Plainscycling",
+      "Landcycling",
+      "Typecycling",
+      "Cycling"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Foot Elite",
+    "mana_cost": "{2}{W/B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Ninja",
+    "oracle_text": "Whenever this creature attacks, another target creature you control gets +1/+0 and gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Protection"
+    ]
+  },
+  {
+    "name": "Hidden Hideout",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add one mana of any color in your commander's color identity.\n{2}, {T}: Target creature you control with a counter on it gains lifelink until end of turn.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Stax",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Super Shredder",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Human",
+    "oracle_text": "Menace\nWhenever another permanent leaves the battlefield, put a +1/+1 counter on Super Shredder.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Mole Module",
+    "mana_cost": "{5}",
+    "cmc": 5.0,
+    "type_line": "Artifact — Vehicle",
+    "oracle_text": "Menace\nWhenever this Vehicle deals combat damage to a player, mill four cards. You may put a permanent card from among them onto the battlefield.\nCrew 2",
+    "color_identity": [],
+    "keywords": [
+      "Crew",
+      "Menace",
+      "Mill"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "6",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Stockman, Mad Fly-entist",
+    "mana_cost": "{4}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Insect Mutant Scientist",
+    "oracle_text": "Flying\nWhen Stockman enters, draw a card, then discard a card.\nIslandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Islandcycling",
+      "Landcycling",
+      "Typecycling",
+      "Cycling"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Mouser Attack!",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one —\n• Create a 1/1 colorless Robot artifact creature token.\n• Target creature gets +3/+0 and gains first strike until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Donatello, Gadget Master",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Sneak {1}{U} (You may cast this spell for {1}{U} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nWhenever Donatello deals combat damage to a player, create a token that's a copy of target artifact you control.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Turtle Blimp",
+    "mana_cost": "{5}",
+    "cmc": 5.0,
+    "type_line": "Artifact — Vehicle",
+    "oracle_text": "Flying\nWhen this Vehicle enters, create a 2/2 red Mutant creature token.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "color_identity": [],
+    "keywords": [
+      "Flying",
+      "Crew"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Casey Jones, Vigilante",
+    "mana_cost": "{1}{R}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Berserker",
+    "oracle_text": "When Casey Jones enters, draw three cards. At the beginning of your next upkeep, discard three cards at random.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "The Cloning of Shredder",
+    "mana_cost": "{4}{B}{B}",
+    "cmc": 6.0,
+    "type_line": "Enchantment — Saga",
+    "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Exile target creature card from your graveyard. Create a token that's a copy of it, except it isn't legendary and is a Mutant in addition to its other types.\nII, III — Create a token that's a copy of a card exiled with this Saga, except it isn't legendary and is a Mutant in addition to its other types.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Shredder's Armor",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature gets +2/+1.\nWhen this Equipment enters, attach it to target creature you control.\nEquip—Sacrifice another nonland permanent. Activate only once each turn.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Study the Classics",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Put a +1/+1 counter on target creature, then double the number of +1/+1 counters on it. You gain life equal to the number of +1/+1 counters on that creature.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Double"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "uncommon",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Splinter & Leo, Father & Son",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Rat Turtle",
+    "oracle_text": "When Splinter & Leo enter, choose one or both. Each mode must target a different player.\n• Target player creates a 2/2 red Mutant creature token.\n• Put a +1/+1 counter on each other creature target player controls.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Fugitive Droid",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Artifact Creature — Robot Scientist",
+    "oracle_text": "This creature can't be blocked if an artifact entered the battlefield under your control this turn.\n{U}, Sacrifice this creature: Counter target spell that targets an artifact or creature you control.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Counterspells",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Ooze Spill",
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Counter target spell. Create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Token Generation",
+      "Counterspells"
+    ]
+  },
+  {
+    "name": "Dark Leo & Shredder",
+    "mana_cost": "{W}{B}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle Human",
+    "oracle_text": "Sneak {W}{B}\nAttacking Ninjas you control have deathtouch.\nWhenever Dark Leo & Shredder deal combat damage to a player, create a 1/1 black Ninja creature token. Then if you control five or more Ninjas, that player loses half their life, rounded up.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Here Comes a New Hero!",
+    "mana_cost": "{X}{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Target player draws X cards. Create a token that's a copy of up to one target creature with mana value X or less.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Manhole Missile",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Manhole Missile deals 3 damage to target creature. You may put a card from your hand on the bottom of your library. If you do, draw a card.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Fast Forward",
+    "mana_cost": "{4}{R}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "This spell costs {1} less to cast for each opponent you attacked this turn.\nGoad all creatures your opponents control. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Goad"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": []
+  },
+  {
+    "name": "Double Jump // Flying Kick",
+    "mana_cost": "{1}{U} // {1}{R}",
+    "cmc": 4.0,
+    "type_line": "Instant // Instant",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Fuse"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Double Jump",
+        "mana_cost": "{1}{U}",
+        "type_line": "Instant",
+        "oracle_text": "Put a flying counter on target creature you control. Until end of turn, it has base power and toughness 5/5.\nFuse (You may cast one or both halves of this card from your hand.)",
+        "artist": "Kevin Sidharta",
+        "artist_id": "e0bcff21-4a2b-4151-86a2-a462da7b5aaa",
+        "illustration_id": "f44bc0e5-0f64-4a72-b626-7d709867e2fc"
+      },
+      {
+        "object": "card_face",
+        "name": "Flying Kick",
+        "mana_cost": "{1}{R}",
+        "type_line": "Instant",
+        "oracle_text": "Target creature you control deals damage equal to its power to target creature an opponent controls.\nFuse (You may cast one or both halves of this card from your hand.)",
+        "artist": "Kevin Sidharta",
+        "artist_id": "e0bcff21-4a2b-4151-86a2-a462da7b5aaa"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Donatello's Science Lesson",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Tap up to two target creatures. Up to two target players each draw a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Roadkill Rodney",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact Creature — Robot",
+    "oracle_text": "Squad {3} (As an additional cost to cast this spell, you may pay {3} any number of times. When this creature enters, create that many tokens that are copies of it.)\nDeathtouch\nWhenever this creature deals combat damage to a player, create a Mutagen token.",
+    "color_identity": [],
+    "keywords": [
+      "Squad",
+      "Deathtouch"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Turtles Forever",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Instant",
+    "oracle_text": "Search your library and/or outside the game for exactly four legendary creature cards you own with different names, then reveal those cards. An opponent chooses two of them. Put the chosen cards into your hand and shuffle the rest into your library.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Oroku Saki, Shredder Rising",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Ninja",
+    "oracle_text": "Sneak {1}{B} (You may cast this spell for {1}{B} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nWhenever Oroku Saki deals combat damage to a player, you draw a card and lose 1 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Purple Dragon Punks",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Rogue",
+    "oracle_text": "{T}: Add {R}. Spend this mana only to cast an artifact spell or to activate an ability.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Containment Protocol",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nWhen this Aura enters, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "common",
+    "tags": []
+  },
+  {
+    "name": "April O'Neil, Hacktivist",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Scientist",
+    "oracle_text": "At the beginning of your end step, draw a card for each card type among spells you've cast this turn.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "5",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Wooden Cane",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "When this Equipment enters, create a 2/2 red Mutant creature token, then attach this Equipment to it.\nEquipped creature gets +2/+1.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "uncommon",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Storm of Steel",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Storm of Steel deals 2 damage to each of one or two targets.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Guac & Marshmallow Pizza",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Artifact — Food",
+    "oracle_text": "Flash\nWhen this artifact enters, target creature gets +2/+2 until end of turn. Untap it.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Coin of Mastery",
+    "mana_cost": "{4}",
+    "cmc": 4.0,
+    "type_line": "Artifact",
+    "oracle_text": "Each creature you control enters with an additional +1/+1 counter on it for each mana from an artifact source spent to cast it.\n{T}: Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "color_identity": [],
+    "keywords": [
+      "Treasure"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "High Score",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.\nAt the beginning of your end step, draw a card if you control a creature with the greatest power among creatures on the battlefield.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Retro-Mutation",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Flash\nEnchant creature\nEnchanted creature is a Turtle with base power and toughness 0/1. It can't attack and loses all abilities. (It also loses all other creature types.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Enchant",
+      "Flash"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Shredder's Technique",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Sneak {B} (You may cast this spell for {B} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nDestroy target creature or enchantment. If an enchantment was destroyed this way, you lose 2 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Zog, Triceraton Castaway",
+    "mana_cost": "{4}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Dinosaur Soldier",
+    "oracle_text": "Reach, trample\nWhen Zog enters, target creature can't block this turn.\nMountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Mountaincycling",
+      "Reach",
+      "Landcycling",
+      "Trample",
+      "Typecycling",
+      "Cycling"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "5",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Groundchuck & Dirtbag",
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Ox Mole Mutant",
+    "oracle_text": "Trample\nWhenever you tap a land for mana, add {G}.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "8",
+    "toughness": "8",
+    "produced_mana": [
+      "G"
+    ],
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Rat King, Pale Piper",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Rat Avatar",
+    "oracle_text": "Menace\nWhenever Rat King or another nontoken creature you control leaves the battlefield, create a 1/1 black Rat creature token.\n{2}, Sacrifice a token: Draw a card.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Shark Shredder, Killer Clone",
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Shark Octopus Ninja",
+    "oracle_text": "Sneak {3}{B}{B}\nFirst strike\nWhenever Shark Shredder deals combat damage to a player, put up to one target creature card from that player's graveyard onto the battlefield under your control. It enters tapped and attacking that player.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "First strike",
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Combat",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Big Apple, 3 a.m.",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped. As it enters, choose a color.\n{T}: Add one mana of the chosen color.\n{5}, {T}: Create a 1/1 black Rat creature token for each opponent you have.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Skateboard",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "When this Equipment enters, tap target permanent.\nEquipped creature gets +1/+0 and has haste.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Irma, Part-Time Mutant",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Mutant Shapeshifter",
+    "oracle_text": "At the beginning of combat on your turn, Irma becomes a copy of up to one other target creature you control, except her name is Irma, Part-Time Mutant and she has this ability. Then put a +1/+1 counter on her.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Does Machines",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Class",
+    "oracle_text": "(Gain the next level as a sorcery to add its ability.)\nWhen this Class enters, mill two cards, draw two cards, then discard two cards.\n{1}{U}: Level 2\nWhen this Class becomes level 2, return up to two target artifact cards from your graveyard to your hand.\n{4}{U}: Level 3\nAt the beginning of combat on your turn, put three +1/+1 counters on target artifact you control. If it isn't a creature, it becomes a 0/0 Robot creature in addition to its other types.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Mill"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Punk Frogs",
+    "mana_cost": "{3}{G/U}{G/U}",
+    "cmc": 5.0,
+    "type_line": "Creature — Frog Mutant Rebel",
+    "oracle_text": "Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [
+      "Ward"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "5",
+    "tags": [
+      "Protection"
+    ]
+  },
+  {
+    "name": "Prehistoric Turtlesaurus",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Creature — Mutant Ninja Turtle Dinosaur",
+    "oracle_text": "This spell costs {1} less to cast if you control a creature with a +1/+1 counter on it.\nVigilance (Attacking doesn't cause this creature to tap.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "5",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Northampton Farm",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{1}, {T}: Exile target creature you own.\n{2}, {T}, Sacrifice this land: Return a creature card exiled with this land to the battlefield under your control. Return each other card exiled with this land to its owner's hand.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "produced_mana": [
+      "C"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Hamato Guardian Stance",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature gets +1/+3 and gains flying until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Scry"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Broadcast Takeover",
+    "mana_cost": "{2}{R}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Gain control of all artifacts your opponents control until end of turn. Untap them. They gain haste until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Michelangelo, On the Scene",
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Trample (This creature can deal excess combat damage to the player it's attacking.)\nMichelangelo enters with a +1/+1 counter on him for each land you control.\nWhen Michelangelo dies, return this card to your hand.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "The Last Ronin",
+    "mana_cost": "{4}{B}{G}",
+    "cmc": 6.0,
+    "type_line": "Enchantment — Saga",
+    "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Destroy all creatures.\nII — Mill four cards. When you do, return target creature card from your graveyard to your hand.\nIII — Whenever a creature you control attacks alone this turn, put three +1/+1 counters on it. It gains trample, lifelink, and indestructible until end of turn.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Mill"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Protection",
+      "Combat",
+      "Recursion",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Armaggon, Future Shark",
+    "mana_cost": "{6}{B}{B}",
+    "cmc": 8.0,
+    "type_line": "Legendary Creature — Shark Horror Mutant",
+    "oracle_text": "Flash\nWhen Armaggon enters, destroy up to three target creatures.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "9",
+    "toughness": "6",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "East Wind Avatar",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Creature — Bird Spirit Avatar",
+    "oracle_text": "Flying, vigilance\nAlliance — Whenever another creature you control enters, this creature gets +1/+0 until end of turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Vigilance",
+      "Alliance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Game Over",
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "This spell costs {2} less to cast if a player's life total is less than or equal to half their starting life total.\nDestroy all creatures.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Karai's Technique",
+    "mana_cost": "{1}{W}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Sneak {W}{B} (You may cast this spell for {W}{B} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nChoose one or both —\n• Target creature gets +3/+3 until end of turn.\n• Target creature gets -3/-3 until end of turn.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Baxter Stockman",
+    "mana_cost": "{3}{U}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Scientist",
+    "oracle_text": "When Baxter Stockman enters, create a 1/1 colorless Robot artifact creature token.\nAt the beginning of combat on your turn, target artifact creature you control gets +3/+0 and gains first strike and vigilance until end of turn.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Mona Lisa, Science Geek",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Lizard Mutant",
+    "oracle_text": "Reach\n{T}: Add X mana of any one color, where X is Mona Lisa's power.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Reach"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "3",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Pizza Face, Gastromancer",
+    "mana_cost": "{3}{B}{G}",
+    "cmc": 5.0,
+    "type_line": "Legendary Artifact Creature — Food Mutant",
+    "oracle_text": "When Pizza Face enters, create a Food token.\nDisappear — At the beginning of your end step, if a permanent left the battlefield under your control this turn, put three +1/+1 counters on up to one other target artifact or creature. If it isn't a creature, it becomes a 0/0 Mutant creature in addition to its other types.\n{10}, {T}, Sacrifice Pizza Face: You gain 15 life.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Disappear",
+      "Food"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "New Generation's Technique",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Sneak {2}{G} (You may cast this spell for {2}{G} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nSearch your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Koya, Death from Above",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Bird",
+    "oracle_text": "Flying\nWhen Koya enters, exile up to one other target creature. At the beginning of the next end step, you may pay {3}{B}. If you don't, return that card to the battlefield under its owner's control.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Old Hob, Alleycat Blues",
+    "mana_cost": "{4}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Cat Mutant Rebel",
+    "oracle_text": "At the beginning of combat on your turn, create a 2/2 red Mutant creature token. It gains haste until end of turn. Destroy it at the beginning of the next end step.\n{1}{W}: Target attacking creature token gains indestructible until end of turn.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Quintessential Katana",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature gets +1/+1 and has \"Whenever this creature deals combat damage, untap it and you gain 2 life.\"\nWhenever a Ninja you control enters, you may attach this Equipment to it.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": []
+  },
+  {
+    "name": "Leonardo's Technique",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Sneak {1}{W} (You may cast this spell for {1}{W} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nReturn one or two target creature cards each with mana value 3 or less from your graveyard to the battlefield.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Mana Ramp",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Pain 101",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Until end of turn, target creature gains deathtouch and \"When this creature dies, return it to the battlefield tapped under its owner's control.\"",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Mutant Chain Reaction",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Destroy up to one target artifact, enchantment, or creature with flying. Create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Transdimensional Bovine",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Ox Avatar",
+    "oracle_text": "Flying\n{T}: Add two mana of any one color.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "0",
+    "toughness": "4",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Raphael, Most Attitude",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nAlliance — Whenever another creature you control enters, you may exile the top card of your library.\nWhenever Raphael attacks, until end of turn, you may play a card exiled with Raphael.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Alliance",
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Turtle Lair",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Ninja or Turtle spell.\n{3}, {T}: Target Ninja or Turtle can't be blocked this turn.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "C",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Nobody",
+    "mana_cost": "{1}{U/R}{U/R}",
+    "cmc": 3.0,
+    "type_line": "Artifact Creature — Human Hero",
+    "oracle_text": "When this creature enters, return up to one other target artifact you control to its owner's hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Scry"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Shredder, Shadow Master",
+    "mana_cost": "{3}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Ninja",
+    "oracle_text": "Whenever Shredder attacks a player, for each other opponent, create a token that's a copy of Shredder tapped and attacking that player, except it isn't legendary. Sacrifice those tokens at end of combat.\nWhenever Shredder deals combat damage to a player, that player loses half their life, rounded up.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Leatherhead, Swamp Stalker",
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Crocodile Mutant Rogue",
+    "oracle_text": "Trample\nLeatherhead enters with a hexproof counter on her.\nWhenever Leatherhead deals combat damage to a player, you may remove a counter from her. When you do, destroy target artifact or enchantment that player controls.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Michelangelo, the Heart",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Trample\nRaid (the Fridge) — At the beginning of your second main phase, if you attacked this turn, put a +1/+1 counter on target creature and create a Food token.\nPartner—Character select (You can have two commanders if both have this ability.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Food",
+      "Partner",
+      "Trample"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Casey & Raph, Hotheads",
+    "mana_cost": "{4}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Mutant Ninja Human Turtle",
+    "oracle_text": "When Casey & Raph enter, choose one or both. Each mode must target a different player.\n• Target player exiles the top card of their library. Until that player's next end step, they may play that card without paying its mana cost.\n• Target player creates two Treasure tokens.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Treasure"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Agent Bishop, Man in Black",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Soldier",
+    "oracle_text": "At the beginning of combat on your turn, put a +1/+1 counter on each of up to two target creatures.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Leo's Guidance",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Put a +1/+1 counter on each of up to three target creatures. Untap them.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "uncommon",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Shellshock",
+    "mana_cost": "{X}{R}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "For each opponent, choose up to one target creature that player controls. Shellshock deals X damage to each of those creatures. You create a Mutagen token for each creature dealt damage this way. (They're artifacts with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Slithering Cryptid",
+    "mana_cost": "{2}{G/U}",
+    "cmc": 3.0,
+    "type_line": "Creature — Fish Mutant",
+    "oracle_text": "When this creature enters, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Raphael's Technique",
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Instant",
+    "oracle_text": "Sneak {2}{R} (You may cast this spell for {2}{R} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nEach player may discard their hand and draw seven cards.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Death in the Family",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Exile target creature with mana value 3 or less.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Mana Ramp"
+    ]
+  },
+  {
+    "name": "Mutant Town",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, you gain 1 life.\n{T}: Add {G} or {U}.",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "produced_mana": [
+      "G",
+      "U"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Donatello, Mutant Mechanic",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "{T}: Put three +1/+1 counters on target artifact you control. If it isn't a creature, it becomes a 0/0 Robot creature in addition to its other types. Activate only as a sorcery.\nWhenever an artifact you control is put into a graveyard from the battlefield, if it had counters on it, put those counters on up to one target artifact or creature you control.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "3",
+    "toughness": "5",
+    "tags": [
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Ice Cream Kitty",
+    "mana_cost": "{1}{B/G}",
+    "cmc": 2.0,
+    "type_line": "Artifact Creature — Food Cat Mutant",
+    "oracle_text": "{2}, Sacrifice another creature or token: Draw a card. Activate only as a sorcery.\n{2}, {T}, Sacrifice this creature: You gain 3 life.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Donatello, Turtle Techie",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "When Donatello enters, if you control an artifact, draw a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Rocksteady, Crash Courser",
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Rhino Mutant",
+    "oracle_text": "Rocksteady can't be blocked by more than one creature.\nBoars you control can't be blocked by more than one creature.\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Landcycling",
+      "Forestcycling",
+      "Typecycling",
+      "Cycling"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "common",
+    "power": "7",
+    "toughness": "7",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Mondo Gecko",
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Lizard Mutant",
+    "oracle_text": "{1}, Discard a card: Until end of turn, Mondo Gecko becomes the color of your choice and gains hexproof from that color.\nWhenever Mondo Gecko deals combat damage to a player, draw a card for each color among permanents you control.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Protection"
+    ]
+  },
+  {
+    "name": "Splinter, Radical Rat",
+    "mana_cost": "{1}{W/B}{W/B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Mutant Ninja Rat",
+    "oracle_text": "If a triggered ability of a Ninja creature you control triggers, that ability triggers an additional time.\n{1}{U}: Target Ninja can't be blocked this turn.",
+    "color_identity": [
+      "B",
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Mighty Mutanimals",
+    "mana_cost": "{2}{W}{W}",
+    "cmc": 4.0,
+    "type_line": "Creature — Mutant Rebel",
+    "oracle_text": "When this creature enters, create a 2/2 red Mutant creature token.\nAlliance — Whenever another creature you control enters, put a +1/+1 counter on target creature you control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Alliance"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Raphael, Ninja Destroyer",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Raphael must be blocked if able.\nEnrage — Whenever Raphael is dealt damage, add that much {R}. Until end of turn, you don't lose this mana as steps and phases end.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Enrage"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "4",
+    "toughness": "4",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Splinter, the Mentor",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Mutant Ninja Rat",
+    "oracle_text": "Menace\nWhenever Splinter or another nontoken creature you control leaves the battlefield, create a Mutagen token.\nPartner—Character select (You can have two commanders if both have this ability.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Partner",
+      "Menace"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "mythic",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Michelangelo, Mutant BFF",
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Each creature you control with a counter on it can't be blocked by more than one creature.\nWhenever Michelangelo enters or attacks, create a Mutagen token. (It's an artifact with \"{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.\")",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Stax"
+    ]
+  }
+]

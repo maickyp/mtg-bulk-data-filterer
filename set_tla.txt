@@ -1,0 +1,6040 @@
+[
+  {
+    "name": "Airship Engine Room",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {U} or {R}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "R",
+      "U"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "War Balloon",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Vehicle",
+    "oracle_text": "Flying\n{1}: Put a fire counter on this Vehicle.\nAs long as this Vehicle has three or more fire counters on it, it's an artifact creature.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Crew"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Gran-Gran",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Legendary Creature — Human Peasant Ally",
+    "oracle_text": "Whenever Gran-Gran becomes tapped, draw a card, then discard a card.\nNoncreature spells you cast cost {1} less to cast as long as there are three or more Lesson cards in your graveyard.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Sparring Dummy",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Artifact Creature — Scarecrow",
+    "oracle_text": "Defender\n{T}: Mill a card. You may put a land card milled this way into your hand. You gain 2 life if a Lesson card is milled this way. (To mill a card, put the top card of your library into your graveyard.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Mill",
+      "Defender"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Earth Village Ruffians",
+    "mana_cost": "{2}{B/G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Soldier Rogue",
+    "oracle_text": "When this creature dies, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Appa, Steadfast Guardian",
+    "mana_cost": "{2}{W}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Bison Ally",
+    "oracle_text": "Flash\nFlying\nWhen Appa enters, airbend any number of other target nonland permanents you control. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)\nWhenever you cast a spell from exile, create a 1/1 white Ally creature token.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Airbend",
+      "Flash"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Ty Lee, Chi Blocker",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Performer Ally",
+    "oracle_text": "Flash\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Ty Lee enters, tap up to one target creature. It doesn't untap during its controller's untap step for as long as you control Ty Lee.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Prowess",
+      "Flash"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "1",
+    "tags": []
+  },
+  {
+    "name": "Fire Sages",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Cleric",
+    "oracle_text": "Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\n{1}{R}{R}: Put a +1/+1 counter on this creature.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Katara, the Fearless",
+    "mana_cost": "{G}{W}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "If a triggered ability of an Ally you control triggers, that ability triggers an additional time.",
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": []
+  },
+  {
+    "name": "Ember Island Production",
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Choose one —\n• Create a token that's a copy of target creature you control, except it's not legendary and it's a 4/4 Hero in addition to its other types.\n• Create a token that's a copy of target creature an opponent controls, except it's not legendary and it's a 2/2 Coward in addition to its other types.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Protection",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Water Tribe Captain",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "{5}: Creatures you control get +1/+1 until end of turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "3",
+    "tags": []
+  },
+  {
+    "name": "Beetle-Headed Merchants",
+    "mana_cost": "{4}{B}",
+    "cmc": 5.0,
+    "type_line": "Creature — Human Citizen",
+    "oracle_text": "Whenever this creature attacks, you may sacrifice another creature or artifact. If you do, draw a card and put a +1/+1 counter on this creature.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "5",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Sandbender Scavengers",
+    "mana_cost": "{W}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Rogue",
+    "oracle_text": "Whenever you sacrifice another permanent, put a +1/+1 counter on this creature.\nWhen this creature dies, you may exile it. When you do, return target creature card with mana value less than or equal to this creature's power from your graveyard to the battlefield.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Mana Ramp",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Honest Work",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature an opponent controls\nWhen this Aura enters, tap enchanted creature and remove all counters from it.\nEnchanted creature loses all abilities and is a Citizen with base power and toughness 1/1 and \"{T}: Add {C}\" named Humble Merchant. (It loses all other creature types and names.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "C"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Benevolent River Spirit",
+    "mana_cost": "{U}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Spirit",
+    "oracle_text": "As an additional cost to cast this spell, waterbend {5}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nFlying, ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)\nWhen this creature enters, scry 2.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Scry",
+      "Flying",
+      "Ward",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "5",
+    "tags": [
+      "Protection",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Fated Firepower",
+    "mana_cost": "{X}{R}{R}{R}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Flash\nThis enchantment enters with X fire counters on it.\nIf a source you control would deal damage to an opponent or a permanent an opponent controls, it deals that much damage plus an amount of damage equal to the number of fire counters on this enchantment instead.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Foggy Swamp Visions",
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nExile X target creature cards from graveyards. For each creature card exiled this way, create a token that's a copy of it. At the beginning of your next end step, sacrifice those tokens.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Origin of Metalbending",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Choose one —\n• Destroy target artifact or enchantment.\n• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "June, Bounty Hunter",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Mercenary",
+    "oracle_text": "June can't be blocked as long as you've drawn two or more cards this turn.\n{1}, Sacrifice another creature: Create a Clue token. Activate only during your turn. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Meteor Sword",
+    "mana_cost": "{7}",
+    "cmc": 7.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "When this Equipment enters, destroy target permanent.\nEquipped creature gets +3/+3.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Invasion Reinforcements",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Warrior Ally",
+    "oracle_text": "Flash\nWhen this creature enters, create a 1/1 white Ally creature token.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Foggy Swamp Hunters",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Ranger Ally",
+    "oracle_text": "As long as you've drawn two or more cards this turn, this creature has lifelink and menace. (It can't be blocked except by two or more creatures.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Stax",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Firebending Student",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Monk",
+    "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nFirebending X, where X is this creature's power. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Prowess",
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "2",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Earth Kingdom Jailer",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "When this creature enters, exile up to one target artifact, creature, or enchantment an opponent controls with mana value 3 or greater until this creature leaves the battlefield.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Mana Ramp"
+    ]
+  },
+  {
+    "name": "Earth Rumble Wrestlers",
+    "mana_cost": "{3}{R/G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Warrior Performer",
+    "oracle_text": "Reach\nThis creature gets +1/+0 and has trample as long as you control a land creature or a land entered the battlefield under your control this turn.",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Reach"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Fire Navy Trebuchet",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Artifact Creature — Wall",
+    "oracle_text": "Defender, reach\nWhenever you attack, create a 2/1 colorless Construct artifact creature token with flying named Ballistic Boulder that's tapped and attacking. Sacrifice that token at the beginning of the next end step.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Reach",
+      "Defender"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "0",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Bumi, Unleashed",
+    "mana_cost": "{3}{R}{G}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Noble Ally",
+    "oracle_text": "Trample\nWhen Bumi enters, earthbend 4.\nWhenever Bumi deals combat damage to a player, untap all lands you control. After this phase, there is an additional combat phase. Only land creatures can attack during that combat phase.",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Trample",
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "power": "5",
+    "toughness": "4",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "The Legend of Kuruk // Avatar Kuruk",
+    "cmc": 4.0,
+    "type_line": "Enchantment — Saga // Legendary Creature — Avatar",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Transform",
+      "Exhaust",
+      "Waterbend",
+      "Scry"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "The Legend of Kuruk",
+        "mana_cost": "{2}{U}{U}",
+        "type_line": "Enchantment — Saga",
+        "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI, II — Scry 2, then draw a card.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
+        "colors": [
+          "U"
+        ],
+        "artist": "Takayama Toshiaki",
+        "artist_id": "a4879110-33bc-4261-8e00-30b897df509b",
+        "illustration_id": "ba5872b9-708e-4501-a2dd-92d6915c7fbf",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990",
+          "normal": "https://cards.scryfall.io/normal/front/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990",
+          "large": "https://cards.scryfall.io/large/front/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990",
+          "png": "https://cards.scryfall.io/png/front/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.png?1783904990",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Avatar Kuruk",
+        "mana_cost": "",
+        "type_line": "Legendary Creature — Avatar",
+        "oracle_text": "Whenever you cast a spell, create a 1/1 colorless Spirit creature token with \"This token can't block or be blocked by non-Spirit creatures.\"\nExhaust — Waterbend {20}: Take an extra turn after this one. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}. Activate each exhaust ability only once.)",
+        "colors": [],
+        "power": "4",
+        "toughness": "3",
+        "artist": "Takayama Toshiaki",
+        "artist_id": "a4879110-33bc-4261-8e00-30b897df509b",
+        "illustration_id": "f05aaa94-f4c4-4e35-9ffc-a5ed6dadadb8",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990",
+          "normal": "https://cards.scryfall.io/normal/back/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990",
+          "large": "https://cards.scryfall.io/large/back/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990",
+          "png": "https://cards.scryfall.io/png/back/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.png?1783904990",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/5/e/5e9a53d3-7f2f-4a9c-9516-0713da740478.jpg?1783904990"
+        }
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Fatal Fissure",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose target creature. When that creature dies this turn, you earthbend 4. (Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Badgermole",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Creature — Badger Mole",
+    "oracle_text": "When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nCreatures you control with +1/+1 counters on them have trample.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Jeong Jeong, the Deserter",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Rebel Ally",
+    "oracle_text": "Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\nExhaust — {3}: Put a +1/+1 counter on Jeong Jeong. When you next cast a Lesson spell this turn, copy it and you may choose new targets for the copy. (Activate each exhaust ability only once.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Exhaust",
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "3",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Agna Qel'a",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped unless you control a basic land.\n{T}: Add {U}.\n{2}{U}, {T}: Draw a card, then discard a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "produced_mana": [
+      "U"
+    ],
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Katara, Water Tribe's Hope",
+    "mana_cost": "{2}{W}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "Vigilance\nWhen Katara enters, create a 1/1 white Ally creature token.\nWaterbend {X}: Creatures you control have base power and toughness X/X until end of turn. X can't be 0. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Vigilance",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Merchant of Many Hats",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Peasant Ally",
+    "oracle_text": "{2}{B}: Return this card from your graveyard to your hand.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Cruel Administrator",
+    "mana_cost": "{3}{B}{R}",
+    "cmc": 5.0,
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "Raid — This creature enters with a +1/+1 counter on it if you attacked this turn.\nWhenever this creature attacks, create a 2/2 red Soldier creature token with firebending 1. (Whenever it attacks, add {R}. This mana lasts until end of combat.)",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Raid"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "5",
+    "toughness": "4",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Fire Lord Azula",
+    "mana_cost": "{1}{U}{B}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Noble",
+    "oracle_text": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you cast a spell while Fire Lord Azula is attacking, copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)",
+    "color_identity": [
+      "B",
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "How to Start a Riot",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Target creature gains menace until end of turn. (It can't be blocked except by two or more creatures.)\nCreatures target player controls get +2/+0 until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "True Ancestry",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Return up to one target permanent card from your graveyard to your hand.\nCreate a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Crescent Island Temple",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Enchantment — Shrine",
+    "oracle_text": "When Crescent Island Temple enters, for each Shrine you control, create a 1/1 red Monk creature token with prowess. (Whenever you cast a noncreature spell, it gets +1/+1 until end of turn.)\nWhenever another Shrine you control enters, create a 1/1 red Monk creature token with prowess.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Northern Air Temple",
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Legendary Enchantment — Shrine",
+    "oracle_text": "When Northern Air Temple enters, each opponent loses X life and you gain X life, where X is the number of Shrines you control.\nWhenever another Shrine you control enters, each opponent loses 1 life and you gain 1 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": []
+  },
+  {
+    "name": "Buzzard-Wasp Colony",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Creature — Bird Insect",
+    "oracle_text": "Flying\nWhen this creature enters, you may sacrifice an artifact or creature. If you do, draw a card.\nWhenever another creature you control dies, if it had counters on it, put its counters on this creature.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Badgermole Cub",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Badger Mole",
+    "oracle_text": "When this creature enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you tap a creature for mana, add an additional {G}.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "power": "2",
+    "toughness": "2",
+    "produced_mana": [
+      "G"
+    ],
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Ostrich-Horse",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Bird Horse",
+    "oracle_text": "When this creature enters, mill three cards. You may put a land card from among them into your hand. If you don't, put a +1/+1 counter on this creature. (To mill three cards, put the top three cards of your library into your graveyard.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Mill"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Wan Shi Tong, Librarian",
+    "mana_cost": "{X}{U}{U}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Bird Spirit",
+    "oracle_text": "Flash\nFlying, vigilance\nWhen Wan Shi Tong enters, put X +1/+1 counters on him. Then draw half X cards, rounded down.\nWhenever an opponent searches their library, put a +1/+1 counter on Wan Shi Tong and draw a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Vigilance",
+      "Flash"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Koh, the Face Stealer",
+    "mana_cost": "{4}{B}{B}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Shapeshifter Spirit",
+    "oracle_text": "When Koh enters, exile up to one other target creature.\nWhenever another nontoken creature dies, you may exile it.\nPay 1 life: Choose a creature card exiled with Koh.\nKoh has all activated and triggered abilities of the last chosen card.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "power": "6",
+    "toughness": "6",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "White Lotus Hideout",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast a Lesson or Shrine spell.\n{1}, {T}: Add one mana of any color.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "C",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Toph, the Blind Bandit",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "When Toph enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nToph's power is equal to the number of +1/+1 counters on lands you control.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "*",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Tundra Tank",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Vehicle",
+    "oracle_text": "Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\nWhen this Vehicle enters, target creature you control gains indestructible until end of turn.\nCrew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Crew",
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Protection"
+    ]
+  },
+  {
+    "name": "The Legend of Roku // Avatar Roku",
+    "cmc": 4.0,
+    "type_line": "Enchantment — Saga // Legendary Creature — Avatar",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Transform",
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "The Legend of Roku",
+        "mana_cost": "{2}{R}{R}",
+        "type_line": "Enchantment — Saga",
+        "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Exile the top three cards of your library. Until the end of your next turn, you may play those cards.\nII — Add one mana of any color.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
+        "colors": [
+          "R"
+        ],
+        "artist": "Song Qijin",
+        "artist_id": "67750cc4-846d-40a2-8d1a-e8085544be07",
+        "illustration_id": "d0c6906e-1de7-4521-a2a4-5a46f4fa4fb3",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959",
+          "normal": "https://cards.scryfall.io/normal/front/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959",
+          "large": "https://cards.scryfall.io/large/front/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959",
+          "png": "https://cards.scryfall.io/png/front/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.png?1783904959",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Avatar Roku",
+        "mana_cost": "",
+        "type_line": "Legendary Creature — Avatar",
+        "oracle_text": "Firebending 4 (Whenever this creature attacks, add {R}{R}{R}{R}. This mana lasts until end of combat.)\n{8}: Create a 4/4 red Dragon creature token with flying and firebending 4.",
+        "colors": [],
+        "power": "4",
+        "toughness": "4",
+        "flavor_text": "\"You must be decisive.\"",
+        "artist": "Song Qijin",
+        "artist_id": "67750cc4-846d-40a2-8d1a-e8085544be07",
+        "illustration_id": "72143273-53f0-4fed-9a56-1b7c86c8a8b2",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959",
+          "normal": "https://cards.scryfall.io/normal/back/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959",
+          "large": "https://cards.scryfall.io/large/back/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959",
+          "png": "https://cards.scryfall.io/png/back/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.png?1783904959",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/9/5/95f2f5af-d405-4534-8683-5a9001f997b4.jpg?1783904959"
+        }
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Solstice Revelations",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if the spell's mana value is less than the number of Mountains you control. If you don't cast that card this way, put it into your hand.\nFlashback {6}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flashback"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Mana Ramp",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Zuko, Exiled Prince",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Noble",
+    "oracle_text": "Firebending 3 (Whenever this creature attacks, add {R}{R}{R}. This mana lasts until end of combat.)\n{3}: Exile the top card of your library. You may play that card this turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "3",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Cat-Gator",
+    "mana_cost": "{6}{B}",
+    "cmc": 7.0,
+    "type_line": "Creature — Fish Crocodile",
+    "oracle_text": "Lifelink\nWhen this creature enters, it deals damage equal to the number of Swamps you control to any target.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Lifelink"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Ty Lee, Artful Acrobat",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Performer",
+    "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Ty Lee attacks, you may pay {1}. When you do, target creature can't block this turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Prowess"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Fire Nation Attacks",
+    "mana_cost": "{4}{R}",
+    "cmc": 5.0,
+    "type_line": "Instant",
+    "oracle_text": "Create two 2/2 red Soldier creature tokens with firebending 1. (Whenever a creature with firebending 1 attacks, add {R}. This mana lasts until end of combat.)\nFlashback {8}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flashback"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Rough Rhino Cavalry",
+    "mana_cost": "{4}{R}",
+    "cmc": 5.0,
+    "type_line": "Creature — Human Mercenary",
+    "oracle_text": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nExhaust — {8}: Put two +1/+1 counters on this creature. It gains trample until end of turn. (Activate each exhaust ability only once.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Exhaust",
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "5",
+    "toughness": "5",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Bender's Waterskin",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "Untap this artifact during each other player's untap step.\n{T}: Add one mana of any color.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Lost Days",
+    "mana_cost": "{4}{U}",
+    "cmc": 5.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "The owner of target creature or enchantment puts it into their library second from the top or on the bottom. You create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Earth Kingdom Protectors",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "Vigilance\nSacrifice this creature: Another target Ally you control gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Trusty Boomerang",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature has \"{1}, {T}: Tap target creature. Return Trusty Boomerang to its owner's hand.\"\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Waterbending Lesson",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Draw three cards. Then discard a card unless you waterbend {2}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "The Fire Nation Drill",
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Artifact — Vehicle",
+    "oracle_text": "Trample\nWhen The Fire Nation Drill enters, you may tap it. When you do, destroy target creature with power 4 or less.\n{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.\nCrew 2",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Crew",
+      "Trample"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Combat"
+    ]
+  },
+  {
+    "name": "North Pole Gates",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Messenger Hawk",
+    "mana_cost": "{2}{U/B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Bird Scout",
+    "oracle_text": "Flying\nWhen this creature enters, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nThis creature gets +2/+0 as long as you've drawn two or more cards this turn.",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Sokka, Lateral Strategist",
+    "mana_cost": "{1}{W/U}{W/U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "Vigilance\nWhenever Sokka and at least one other creature attack, draw a card.",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Earth Kingdom Soldier",
+    "mana_cost": "{4}{G/W}",
+    "cmc": 5.0,
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "Vigilance\nWhen this creature enters, put a +1/+1 counter on each of up to two target creatures you control.",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Vindictive Warden",
+    "mana_cost": "{2}{B/R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nFirebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\n{3}: This creature deals 1 damage to each opponent.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Firebending",
+      "Menace"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Joo Dee, One of Many",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Advisor",
+    "oracle_text": "{B}, {T}: Surveil 1. Create a token that's a copy of this creature, then sacrifice an artifact or creature. Activate only as a sorcery. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Surveil"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Pirate Peddlers",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Pirate",
+    "oracle_text": "Deathtouch\nWhenever you sacrifice another permanent, put a +1/+1 counter on this creature.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Deathtouch"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Rabaroo Troop",
+    "mana_cost": "{3}{W}{W}",
+    "cmc": 5.0,
+    "type_line": "Creature — Rabbit Kangaroo",
+    "oracle_text": "Landfall — Whenever a land you control enters, this creature gains flying until end of turn and you gain 1 life.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Plainscycling",
+      "Landcycling",
+      "Typecycling",
+      "Cycling",
+      "Landfall"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "5",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Guru Pathik",
+    "mana_cost": "{2}{G/U}{G/U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Monk Ally",
+    "oracle_text": "When Guru Pathik enters, look at the top five cards of your library. You may reveal a Lesson, Saga, or Shrine card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.\nWhenever you cast a Lesson, Saga, or Shrine spell, put a +1/+1 counter on another target creature you control.",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Enter the Avatar State",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Until end of turn, target creature you control becomes an Avatar in addition to its other types and gains flying, first strike, lifelink, and hexproof. (A creature with hexproof can't be the target of spells or abilities your opponents control.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Protection",
+      "Combat",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Sun Warriors",
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Warrior Ally",
+    "oracle_text": "Firebending X, where X is the number of creatures you control. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)\n{5}: Create a 1/1 white Ally creature token.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "5",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Boiling Rock Rioter",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Rogue Ally",
+    "oracle_text": "Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\nTap an untapped Ally you control: Exile target card from a graveyard.\nWhenever this creature attacks, you may cast an Ally spell from among cards you own exiled with this creature.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Watery Grasp",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\nWaterbend {5}: Enchanted creature's owner shuffles it into their library. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Enchant",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": []
+  },
+  {
+    "name": "The Legend of Yangchen // Avatar Yangchen",
+    "cmc": 5.0,
+    "type_line": "Enchantment — Saga // Legendary Creature — Avatar",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Airbend",
+      "Transform"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "The Legend of Yangchen",
+        "mana_cost": "{3}{W}{W}",
+        "type_line": "Enchantment — Saga",
+        "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Starting with you, each player chooses up to one permanent with mana value 3 or greater from among permanents your opponents control. Exile those permanents.\nII — You may have target opponent draw three cards. If you do, draw three cards.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
+        "colors": [
+          "W"
+        ],
+        "artist": "Kuno",
+        "artist_id": "db3889ce-0a69-4931-9028-4f33fece71cb",
+        "illustration_id": "f85a25dd-07f4-41a1-a39c-993a413ddc8c",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002",
+          "normal": "https://cards.scryfall.io/normal/front/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002",
+          "large": "https://cards.scryfall.io/large/front/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002",
+          "png": "https://cards.scryfall.io/png/front/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.png?1783905002",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Avatar Yangchen",
+        "mana_cost": "",
+        "type_line": "Legendary Creature — Avatar",
+        "oracle_text": "Flying\nWhenever you cast your second spell each turn, airbend up to one other target nonland permanent. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)",
+        "colors": [],
+        "power": "4",
+        "toughness": "5",
+        "flavor_text": "\"Selfless duty calls you to sacrifice your own spiritual needs and do whatever it takes to protect the world.\"",
+        "artist": "Kuno",
+        "artist_id": "db3889ce-0a69-4931-9028-4f33fece71cb",
+        "illustration_id": "b6f3228b-33f8-4c7e-b4e2-f499da072847",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002",
+          "normal": "https://cards.scryfall.io/normal/back/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002",
+          "large": "https://cards.scryfall.io/large/back/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002",
+          "png": "https://cards.scryfall.io/png/back/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.png?1783905002",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/a/6/a60e8f23-90b2-4bc6-bd54-a95055556389.jpg?1783905002"
+        }
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Combustion Technique",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Combustion Technique deals damage equal to 2 plus the number of Lesson cards in your graveyard to target creature. If that creature would die this turn, exile it instead.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Combustion Man",
+    "mana_cost": "{3}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Assassin",
+    "oracle_text": "Whenever Combustion Man attacks, destroy target permanent unless its controller has Combustion Man deal damage to them equal to his power.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "6",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Yip Yip!",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Target creature you control gets +2/+2 until end of turn. If that creature is an Ally, it also gains flying until end of turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Boar-q-pine",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Boar Porcupine",
+    "oracle_text": "Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Dai Li Indoctrination",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Choose one —\n• Target opponent reveals their hand. You choose a nonland permanent card from it. That player discards that card.\n• Earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Katara, Bending Prodigy",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "At the beginning of your end step, if Katara is tapped, put a +1/+1 counter on her.\nWaterbend {6}: Draw a card. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Professor Zei, Anthropologist",
+    "mana_cost": "{U/R}{U/R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Advisor Ally",
+    "oracle_text": "{T}, Discard a card: Draw a card.\n{1}, {T}, Sacrifice Professor Zei: Return target instant or sorcery card from your graveyard to your hand. Activate only during your turn.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "0",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Raucous Audience",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Citizen",
+    "oracle_text": "{T}: Add {G}. If you control a creature with power 4 or greater, add {G}{G} instead.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "1",
+    "produced_mana": [
+      "G"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Jet's Brainwashing",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Kicker {3} (You may pay an additional {3} as you cast this spell.)\nTarget creature can't block this turn. If this spell was kicked, gain control of that creature until end of turn, untap it, and it gains haste until end of turn.\nCreate a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Kicker"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Zuko's Exile",
+    "mana_cost": "{5}",
+    "cmc": 5.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Exile target artifact, creature, or enchantment. Its controller creates a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Tolls of War",
+    "mana_cost": "{W}{B}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you sacrifice a permanent during your turn, create a 1/1 white Ally creature token. This ability triggers only once each turn.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Callous Inspector",
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature dies, it deals 1 damage to you. Create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Earthbending Lesson",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Earthbend 4. (Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Price of Freedom",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Destroy target artifact or land an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.\nDraw a card.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Fire Nation Cadets",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "This creature has firebending 2 as long as there's a Lesson card in your graveyard. (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\n{2}: This creature gets +1/+0 until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "2",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Bumi Bash",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Choose one —\n• Bumi Bash deals damage equal to the number of lands you control to target creature.\n• Destroy target land creature or nonbasic land.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Secret Tunnel",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land — Cave",
+    "oracle_text": "This land can't be blocked.\n{T}: Add {C}.\n{4}, {T}: Two target creatures you control that share a creature type can't be blocked this turn.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "produced_mana": [
+      "C"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Yuyan Archers",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Archer",
+    "oracle_text": "Reach\nWhen this creature enters, you may discard a card. If you do, draw a card.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Reach"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Aang's Iceberg",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Flash\nWhen this enchantment enters, exile up to one other target nonland permanent until this enchantment leaves the battlefield.\nWaterbend {3}: Sacrifice this enchantment. If you do, scry 2. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flash",
+      "Waterbend",
+      "Scry"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Water Tribe Rallier",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "Waterbend {5}: Look at the top four cards of your library. You may reveal a creature card with power 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Airbender's Reversal",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Choose one —\n• Destroy target attacking creature.\n• Airbend target creature you control. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Airbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Wartime Protestors",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Rebel Ally",
+    "oracle_text": "Haste\nWhenever another Ally you control enters, put a +1/+1 counter on that creature and it gains haste until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Haste"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Meditation Pools",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {G} or {U}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "G",
+      "U"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Spirit Water Revival",
+    "mana_cost": "{1}{U}{U}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "As an additional cost to cast this spell, you may waterbend {6}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nDraw two cards. If this spell's additional cost was paid, instead shuffle your graveyard into your library, draw seven cards, and you have no maximum hand size for the rest of the game.\nExile Spirit Water Revival.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Tiger-Seal",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Creature — Cat Seal",
+    "oracle_text": "Vigilance\nAt the beginning of your upkeep, tap this creature.\nWhenever you draw your second card each turn, untap this creature.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Jeong Jeong's Deserters",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Rebel Ally",
+    "oracle_text": "When this creature enters, put a +1/+1 counter on target creature.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Sold Out",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Instant",
+    "oracle_text": "Exile target creature. If it was dealt damage this turn, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Diligent Zookeeper",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Citizen Ally",
+    "oracle_text": "Each non-Human creature you control gets +1/+1 for each of its creature types, to a maximum of 10.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": []
+  },
+  {
+    "name": "Sokka, Tenacious Tactician",
+    "mana_cost": "{1}{U}{R}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "Menace, prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nOther Allies you control have menace and prowess.\nWhenever you cast a noncreature spell, create a 1/1 white Ally creature token.",
+    "color_identity": [
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Prowess",
+      "Menace"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Boiling Rock Prison",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {B} or {R}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "R"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Compassionate Healer",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Cleric Ally",
+    "oracle_text": "Whenever this creature becomes tapped, you gain 1 life and scry 1. (Look at the top card of your library. You may put it on the bottom.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Scry"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Omashu City",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {R} or {G}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "G",
+      "R"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Octopus Form",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Target creature you control gets +1/+1 and gains hexproof until end of turn. Untap it. (It can't be the target of spells or abilities your opponents control.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Protection"
+    ]
+  },
+  {
+    "name": "Phoenix Fleet Airship",
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4.0,
+    "type_line": "Artifact — Vehicle",
+    "oracle_text": "Flying\nAt the beginning of your end step, if you sacrificed a permanent this turn, create a token that's a copy of this Vehicle.\nAs long as you control eight or more permanents named Phoenix Fleet Airship, this Vehicle is an artifact creature.\nCrew 1",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying",
+      "Crew"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Rebellious Captives",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Peasant Ally",
+    "oracle_text": "Exhaust — {6}: Put two +1/+1 counters on this creature, then earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped. Activate each exhaust ability only once.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Exhaust",
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Aang, the Last Airbender",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Avatar Ally",
+    "oracle_text": "Flying\nWhen Aang enters, airbend up to one other target nonland permanent. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nWhenever you cast a Lesson spell, Aang gains lifelink until end of turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Airbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Suki, Courageous Rescuer",
+    "mana_cost": "{1}{W}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "Other creatures you control get +1/+0.\nWhenever another permanent you control leaves the battlefield during your turn, create a 1/1 white Ally creature token. This ability triggers only once each turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Wandering Musicians",
+    "mana_cost": "{3}{R/W}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Bard Ally",
+    "oracle_text": "Whenever this creature attacks, creatures you control get +1/+0 until end of turn.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "5",
+    "tags": []
+  },
+  {
+    "name": "Elemental Teachings",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Deserter's Disciple",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Rebel Ally",
+    "oracle_text": "{T}: Another target creature you control with power 2 or less can't be blocked this turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Rowdy Snowballers",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Peasant Ally",
+    "oracle_text": "When this creature enters, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Secret of Bloodbending",
+    "mana_cost": "{U}{U}{U}{U}",
+    "cmc": 4.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "As an additional cost to cast this spell, you may waterbend {10}.\nYou control target opponent during their next combat phase. If this spell's additional cost was paid, you control that player during their next turn instead. (You see all cards that player could see and make all decisions for them.)\nExile Secret of Bloodbending.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Ozai, the Phoenix King",
+    "mana_cost": "{2}{B}{B}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Human Noble",
+    "oracle_text": "Trample, firebending 4, haste\nIf you would lose unspent mana, that mana becomes red instead.\nOzai has flying and indestructible as long as you have six or more unspent mana.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Haste",
+      "Trample",
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "power": "7",
+    "toughness": "7",
+    "tags": [
+      "Protection",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Haru, Hidden Talent",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Peasant Ally",
+    "oracle_text": "Whenever another Ally you control enters, earthbend 1. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Jet, Freedom Fighter",
+    "mana_cost": "{2}{R/W}{R/W}{R/W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Rebel Ally",
+    "oracle_text": "When Jet enters, he deals damage equal to the number of creatures you control to target creature an opponent controls.\nWhen Jet dies, put a +1/+1 counter on each of up to two target creatures.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "1",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Cycle of Renewal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Great Divide Guide",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Scout Ally",
+    "oracle_text": "Each land and Ally you control has \"{T}: Add one mana of any color.\"",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "3",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Saber-Tooth Moose-Lion",
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6.0,
+    "type_line": "Creature — Elk Cat",
+    "oracle_text": "Reach\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Reach",
+      "Landcycling",
+      "Forestcycling",
+      "Typecycling",
+      "Cycling"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "7",
+    "toughness": "7",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp"
+    ]
+  },
+  {
+    "name": "Avatar Enthusiasts",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Peasant Ally",
+    "oracle_text": "Whenever another Ally you control enters, put a +1/+1 counter on this creature.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Leaves from the Vine",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Saga",
+    "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Mill three cards, then create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nII — Put a +1/+1 counter on each of up to two target creatures you control.\nIII — Draw a card if there's a creature or Lesson card in your graveyard.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Food",
+      "Mill"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Azula, Cunning Usurper",
+    "mana_cost": "{2}{U}{B}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Noble Rogue",
+    "oracle_text": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhen Azula enters, target opponent exiles a nontoken creature they control, then they exile a nonland card from their graveyard.\nDuring your turn, you may cast cards exiled with Azula and you may cast them as though they had flash. Mana of any type can be spent to cast those spells.",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Ruinous Waterbending",
+    "mana_cost": "{1}{B}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "As an additional cost to cast this spell, you may waterbend {4}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nAll creatures get -2/-2 until end of turn. If this spell's additional cost was paid, whenever a creature dies this turn, you gain 1 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Obsessive Pursuit",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters and at the beginning of your upkeep, you lose 1 life and create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you attack, put X +1/+1 counters on target attacking creature, where X is the number of permanents you've sacrificed this turn. If X is three or more, that creature gains lifelink until end of turn.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Glider Staff",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "When this Equipment enters, airbend up to one target creature. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nEquipped creature gets +1/+1 and has flying.\nEquip {2}",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Airbend",
+      "Equip"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Abandon Attachments",
+    "mana_cost": "{1}{U/R}",
+    "cmc": 2.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "You may discard a card. If you do, draw two cards.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Foggy Swamp Vinebender",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Plant Ally",
+    "oracle_text": "This creature can't be blocked by creatures with power 2 or less.\nWaterbend {5}: Put a +1/+1 counter on this creature. Activate only during your turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Dragonfly Swarm",
+    "mana_cost": "{1}{U}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Dragon Insect",
+    "oracle_text": "Flying, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)\nThis creature's power is equal to the number of noncreature, nonland cards in your graveyard.\nWhen this creature dies, if there's a Lesson card in your graveyard, draw a card.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Ward"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "*",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Protection",
+      "Combat",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Rumble Arena",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "Vigilance\nWhen this land enters, scry 1. (Look at the top card of your library. You may put it on the bottom.)\n{T}: Add {C}.\n{1}, {T}: Add one mana of any color.",
+    "color_identity": [],
+    "keywords": [
+      "Vigilance",
+      "Scry"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "C",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Kyoshi Battle Fan",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "When this Equipment enters, create a 1/1 white Ally creature token, then attach this Equipment to it.\nEquipped creature gets +1/+0.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Beifong's Bounty Hunters",
+    "mana_cost": "{2}{B}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Mercenary",
+    "oracle_text": "Whenever a nonland creature you control dies, earthbend X, where X is that creature's power. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Momo, Playful Pet",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Legendary Creature — Lemur Bat Ally",
+    "oracle_text": "Flying, vigilance\nWhen Momo leaves the battlefield, choose one —\n• Create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\n• Put a +1/+1 counter on target creature you control.\n• Scry 2.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Scry",
+      "Flying",
+      "Vigilance",
+      "Food"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Sokka's Haiku",
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Counter target spell.\nDraw a card, then mill three cards.\nUntap target land.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Mill"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Protection",
+      "Counterspells"
+    ]
+  },
+  {
+    "name": "Iroh, Tea Master",
+    "mana_cost": "{1}{R}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Citizen Ally",
+    "oracle_text": "When Iroh enters, create a Food token.\nAt the beginning of combat on your turn, you may have target opponent gain control of target permanent you control. When you do, create a 1/1 white Ally creature token. Put a +1/+1 counter on that token for each permanent you own that your opponents control.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Food"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Waterbending Scroll",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Artifact",
+    "oracle_text": "{6}, {T}: Draw a card. This ability costs {1} less to activate for each Island you control.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Twin Blades",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Flash\nWhen this Equipment enters, attach it to target creature you control. That creature gains double strike until end of turn.\nEquipped creature gets +1/+1.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Equip",
+      "Flash"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Azula, On the Hunt",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Noble",
+    "oracle_text": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever Azula attacks, you lose 1 life and create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "3",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Uncle Iroh",
+    "mana_cost": "{1}{R/G}{R/G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Noble Ally",
+    "oracle_text": "Firebending 1 (Whenever this creature attacks, add {R}. This mana lasts until end of combat.)\nLesson spells you cast cost {1} less to cast.",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "2",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dai Li Agents",
+    "mana_cost": "{3}{B}{G}",
+    "cmc": 5.0,
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "When this creature enters, earthbend 1, then earthbend 1. (To earthbend 1, target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever this creature attacks, each opponent loses X life and you gain X life, where X is the number of creatures you control with +1/+1 counters on them.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Toph, Hardheaded Teacher",
+    "mana_cost": "{2}{R}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "When Toph enters, you may discard a card. If you do, return target instant or sorcery card from your graveyard to your hand.\nWhenever you cast a spell, earthbend 1. If that spell is a Lesson, put an additional +1/+1 counter on that land. (Target land you control becomes a 0/0 creature with haste that's still a land. Put a +1/+1 counter on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Flexible Waterbender",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Warrior Ally",
+    "oracle_text": "Vigilance\nWaterbend {3}: This creature has base power and toughness 5/2 until end of turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Vigilance",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "5",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Iroh's Demonstration",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Choose one —\n• Iroh's Demonstration deals 1 damage to each creature your opponents control.\n• Iroh's Demonstration deals 4 damage to target creature.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Hei Bai, Spirit of Balance",
+    "mana_cost": "{2}{W/B}{W/B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Bear Spirit",
+    "oracle_text": "Whenever Hei Bai enters or attacks, you may sacrifice another creature or artifact. If you do, put two +1/+1 counters on Hei Bai.\nWhen Hei Bai leaves the battlefield, put its counters on target creature you control.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Earthen Ally",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "This creature gets +1/+0 for each color among Allies you control.\n{2}{W}{U}{B}{R}{G}: Earthbend 5. (Target land you control becomes a 0/0 creature with haste that's still a land. Put five +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "0",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Treetop Freedom Fighters",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Rebel Ally",
+    "oracle_text": "Haste\nWhen this creature enters, create a 1/1 white Ally creature token.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Haste"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Suki, Kyoshi Warrior",
+    "mana_cost": "{2}{G/W}{G/W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "Suki's power is equal to the number of creatures you control.\nWhenever Suki attacks, create a 1/1 white Ally creature token that's tapped and attacking.",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "*",
+    "toughness": "4",
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Platypus-Bear",
+    "mana_cost": "{1}{G/U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Platypus Bear",
+    "oracle_text": "Defender\nWhen this creature enters, mill two cards. (Put the top two cards of your library into your graveyard.)\nAs long as there is a Lesson card in your graveyard, this creature can attack as though it didn't have defender.",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [
+      "Mill",
+      "Defender"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Zhao, the Moon Slayer",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Soldier",
+    "oracle_text": "Menace\nNonbasic lands enter tapped.\n{7}: Put a conqueror counter on Zhao.\nAs long as Zhao has a conqueror counter on him, nonbasic lands are Mountains. (They lose all other land types and abilities and have \"{T}: Add {R}.\")",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Menace"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Mai, Scornful Striker",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Noble Ally",
+    "oracle_text": "First strike\nWhenever a player casts a noncreature spell, they lose 2 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "First strike"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Abandoned Air Temple",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped unless you control a basic land.\n{T}: Add {W}.\n{3}{W}, {T}: Put a +1/+1 counter on each creature you control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "produced_mana": [
+      "W"
+    ],
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Yue, the Moon Spirit",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Spirit Ally",
+    "oracle_text": "Flying, vigilance\nWaterbend {5}, {T}: You may cast a noncreature spell from your hand without paying its mana cost. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Vigilance",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Cunning Maneuver",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature gets +3/+1 until end of turn.\nCreate a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Firebender Ascension",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters, create a 2/2 red Soldier creature token with firebending 1.\nWhenever a creature you control attacking causes a triggered ability of that creature to trigger, put a quest counter on this enchantment. Then if it has four or more quest counters on it, you may copy that ability. You may choose new targets for the copy.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Aang, at the Crossroads // Aang, Destined Savior",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally",
+    "color_identity": [
+      "G",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Transform",
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Aang, at the Crossroads",
+        "mana_cost": "{2}{G}{W}{U}",
+        "type_line": "Legendary Creature — Human Avatar Ally",
+        "oracle_text": "Flying\nWhen Aang enters, look at the top five cards of your library. You may put a creature card with mana value 4 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.\nWhen another creature you control leaves the battlefield, transform Aang at the beginning of the next upkeep.",
+        "colors": [
+          "G",
+          "U",
+          "W"
+        ],
+        "power": "3",
+        "toughness": "3",
+        "watermark": "earthkingdom",
+        "artist": "Evan Shipard",
+        "artist_id": "eea284ce-9377-49c1-9d96-f34b7d487cdf",
+        "illustration_id": "624932cd-a2cd-46a1-be36-dc7bbf26d4e1",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940",
+          "normal": "https://cards.scryfall.io/normal/front/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940",
+          "large": "https://cards.scryfall.io/large/front/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940",
+          "png": "https://cards.scryfall.io/png/front/f/e/fea89ca0-8070-4f28-9851-994314f9d248.png?1783904940",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Aang, Destined Savior",
+        "mana_cost": "",
+        "type_line": "Legendary Creature — Avatar Ally",
+        "oracle_text": "Flying\nLand creatures you control have vigilance.\nAt the beginning of combat on your turn, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+        "colors": [],
+        "power": "4",
+        "toughness": "4",
+        "artist": "Evan Shipard",
+        "artist_id": "eea284ce-9377-49c1-9d96-f34b7d487cdf",
+        "illustration_id": "030c72ab-2f0c-46a8-bc99-79e99129ad5a",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940",
+          "normal": "https://cards.scryfall.io/normal/back/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940",
+          "large": "https://cards.scryfall.io/large/back/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940",
+          "png": "https://cards.scryfall.io/png/back/f/e/fea89ca0-8070-4f28-9851-994314f9d248.png?1783904940",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/f/e/fea89ca0-8070-4f28-9851-994314f9d248.jpg?1783904940"
+        }
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Destined Confrontation",
+    "mana_cost": "{2}{W}{W}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Invasion Submersible",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Vehicle",
+    "oracle_text": "When this Vehicle enters, return up to one other target nonland permanent to its owner's hand.\nExhaust — Waterbend {3}: This Vehicle becomes an artifact creature. Put three +1/+1 counters on it. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}. Activate each exhaust ability only once.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Exhaust",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "0",
+    "toughness": "0",
+    "tags": []
+  },
+  {
+    "name": "Fire Nation Warship",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Vehicle",
+    "oracle_text": "Reach\nWhen this Vehicle dies, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+    "color_identity": [],
+    "keywords": [
+      "Reach",
+      "Crew"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Southern Air Temple",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Enchantment — Shrine",
+    "oracle_text": "When Southern Air Temple enters, put X +1/+1 counters on each creature you control, where X is the number of Shrines you control.\nWhenever another Shrine you control enters, put a +1/+1 counter on each creature you control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Serpent of the Pass",
+    "mana_cost": "{5}{U}{U}",
+    "cmc": 7.0,
+    "type_line": "Creature — Serpent",
+    "oracle_text": "If there are three or more Lesson cards in your graveyard, you may cast this spell as though it had flash.\nThis spell costs {1} less to cast for each noncreature, nonland card in your graveyard.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "6",
+    "toughness": "5",
+    "tags": [
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Hermitic Herbalist",
+    "mana_cost": "{G}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Druid Ally",
+    "oracle_text": "{T}: Add one mana of any color.\n{T}: Add two mana in any combination of colors. Spend this mana only to cast Lesson spells.",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "3",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Fire Nation Engineer",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Artificer",
+    "oracle_text": "Raid — At the beginning of your end step, if you attacked this turn, put a +1/+1 counter on another target creature or Vehicle you control.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Raid"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "The Rise of Sozin // Fire Lord Sozin",
+    "cmc": 6.0,
+    "type_line": "Enchantment — Saga // Legendary Creature — Human Noble",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Transform",
+      "Firebending",
+      "Menace"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "produced_mana": [
+      "R"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "The Rise of Sozin",
+        "mana_cost": "{4}{B}{B}",
+        "type_line": "Enchantment — Saga",
+        "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Destroy all creatures.\nII — Choose a card name. Search target opponent's graveyard, hand, and library for up to four cards with that name and exile them. Then that player shuffles.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
+        "colors": [
+          "B"
+        ],
+        "watermark": "firenation",
+        "artist": "Mitori",
+        "artist_id": "34c83611-e90e-43bf-ba58-51d182cecc0f",
+        "illustration_id": "2926a3ec-80d2-492b-ad3e-81b4374add6b",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970",
+          "normal": "https://cards.scryfall.io/normal/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970",
+          "large": "https://cards.scryfall.io/large/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970",
+          "png": "https://cards.scryfall.io/png/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.png?1783904970",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Fire Lord Sozin",
+        "mana_cost": "",
+        "type_line": "Legendary Creature — Human Noble",
+        "oracle_text": "Menace, firebending 3 (Whenever this creature attacks, add {R}{R}{R}. This mana lasts until end of combat.)\nWhenever Fire Lord Sozin deals combat damage to a player, you may pay {X}. When you do, put any number of target creature cards with total mana value X or less from that player's graveyard onto the battlefield under your control.",
+        "colors": [
+          "B"
+        ],
+        "color_indicator": [
+          "B"
+        ],
+        "power": "5",
+        "toughness": "5",
+        "artist": "Mitori",
+        "artist_id": "34c83611-e90e-43bf-ba58-51d182cecc0f",
+        "illustration_id": "26d3e42a-03fb-4f76-a856-32d157afc932",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970",
+          "normal": "https://cards.scryfall.io/normal/back/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970",
+          "large": "https://cards.scryfall.io/large/back/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970",
+          "png": "https://cards.scryfall.io/png/back/1/4/14eadf46-90c2-4376-8183-6a922a60174d.png?1783904970",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/1/4/14eadf46-90c2-4376-8183-6a922a60174d.jpg?1783904970"
+        }
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Long Feng, Grand Secretariat",
+    "mana_cost": "{1}{B/G}{B/G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Advisor",
+    "oracle_text": "Whenever another creature you control or a land you control is put into a graveyard from the battlefield, put a +1/+1 counter on target creature you control.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Seismic Sense",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Look at the top X cards of your library, where X is the number of lands you control. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Earth King's Lieutenant",
+    "mana_cost": "{G}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "Trample\nWhen this creature enters, put a +1/+1 counter on each other Ally creature you control.\nWhenever another Ally you control enters, put a +1/+1 counter on this creature.",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Shared Roots",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Air Nomad Legacy",
+    "mana_cost": "{W}{U}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nCreatures you control with flying get +1/+1.",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "North Pole Patrol",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "{T}: Untap another target permanent you control.\nWaterbend {3}, {T}: Tap target creature an opponent controls. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Fire Lord Zuko",
+    "mana_cost": "{R}{W}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Noble Ally",
+    "oracle_text": "Firebending X, where X is Fire Lord Zuko's power. (Whenever this creature attacks, add X {R}. This mana lasts until end of combat.)\nWhenever you cast a spell from exile and whenever a permanent you control enters from exile, put a +1/+1 counter on each creature you control.",
+    "color_identity": [
+      "B",
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "4",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Pillar Launch",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature gets +2/+2 and gains reach until end of turn. Untap it.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": []
+  },
+  {
+    "name": "Momo, Friendly Flier",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Legendary Creature — Lemur Bat Ally",
+    "oracle_text": "Flying\nThe first non-Lemur creature spell with flying you cast during each of your turns costs {1} less to cast.\nWhenever another creature you control with flying enters, Momo gets +1/+1 until end of turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Forecasting Fortune Teller",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Advisor Ally",
+    "oracle_text": "When this creature enters, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Accumulate Wisdom",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Look at the top three cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order. Put each of those cards into your hand instead if there are three or more Lesson cards in your graveyard.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Ran and Shaw",
+    "mana_cost": "{3}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Dragon",
+    "oracle_text": "Flying, firebending 2\nWhen Ran and Shaw enter, if you cast them and there are three or more Dragon and/or Lesson cards in your graveyard, create a token that's a copy of Ran and Shaw, except it's not legendary.\n{3}{R}: Dragons you control get +2/+0 until end of turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying",
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Combat",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Flopsie, Bumi's Buddy",
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Ape Goat",
+    "oracle_text": "When Flopsie enters, put a +1/+1 counter on each creature you control.\nEach creature you control with power 4 or greater can't be blocked by more than one creature.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Firebending Lesson",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nFirebending Lesson deals 2 damage to target creature. If this spell was kicked, it deals 5 damage to that creature instead.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Kicker"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Mongoose Lizard",
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Creature — Mongoose Lizard",
+    "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, it deals 1 damage to any target.\nMountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Mountaincycling",
+      "Landcycling",
+      "Menace",
+      "Typecycling",
+      "Cycling"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "5",
+    "toughness": "6",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Mana Ramp",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Ozai's Cruelty",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Ozai's Cruelty deals 2 damage to target player. That player discards two cards.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Path to Redemption",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nEnchanted creature can't attack or block.\n{5}, Sacrifice this Aura: Exile enchanted creature. Create a 1/1 white Ally creature token. Activate only during your turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Boomerang Basics",
+    "mana_cost": "{U}",
+    "cmc": 1.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Return target nonland permanent to its owner's hand. If you controlled that permanent, draw a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Lo and Li, Twin Tutors",
+    "mana_cost": "{4}{B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Advisor",
+    "oracle_text": "When Lo and Li enter, search your library for a Lesson or Noble card, reveal it, put it into your hand, then shuffle.\nNoble creatures you control and Lesson spells you control have lifelink.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Vengeful Villagers",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Citizen",
+    "oracle_text": "Whenever this creature attacks, choose target creature an opponent controls. Tap it, then you may sacrifice an artifact or creature. If you do, put a stun counter on the chosen creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Wolfbat",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Wolf Bat",
+    "oracle_text": "Flying\nWhenever you draw your second card each turn, you may pay {B}. If you do, return this card from your graveyard to the battlefield with a finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Waterbender Ascension",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever a creature you control deals combat damage to a player, put a quest counter on this enchantment. Then if it has four or more quest counters on it, draw a card.\nWaterbend {4}: Target creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "The Walls of Ba Sing Se",
+    "mana_cost": "{8}",
+    "cmc": 8.0,
+    "type_line": "Legendary Artifact Creature — Wall",
+    "oracle_text": "Defender\nOther permanents you control have indestructible.",
+    "color_identity": [],
+    "keywords": [
+      "Defender"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "power": "0",
+    "toughness": "30",
+    "tags": [
+      "Protection",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Master Pakku",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Advisor Ally",
+    "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Master Pakku becomes tapped, target player mills X cards, where X is the number of Lesson cards in your graveyard. (They put the top X cards of their library into their graveyard.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Prowess",
+      "Mill"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Kyoshi Warriors",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Warrior Ally",
+    "oracle_text": "When this creature enters, create a 1/1 white Ally creature token.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Fire Nation Raider",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Soldier",
+    "oracle_text": "Raid — When this creature enters, if you attacked this turn, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Raid"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Avatar Aang // Aang, Master of Elements",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Ally",
+    "color_identity": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Transform",
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Avatar Aang",
+        "mana_cost": "{R}{G}{W}{U}",
+        "type_line": "Legendary Creature — Human Avatar Ally",
+        "oracle_text": "Flying, firebending 2\nWhenever you waterbend, earthbend, firebend, or airbend, draw a card. Then if you've done all four this turn, transform Avatar Aang.",
+        "colors": [
+          "G",
+          "R",
+          "U",
+          "W"
+        ],
+        "power": "4",
+        "toughness": "4",
+        "flavor_text": "When the world needed him most, the Avatar returned.",
+        "watermark": "firenation",
+        "artist": "Fahmi Fauzi",
+        "artist_id": "71e0cca2-5ded-4a60-91aa-65a131b35987",
+        "illustration_id": "56d3f9bb-cd23-466a-b6da-7a8ea8e13a10",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938",
+          "normal": "https://cards.scryfall.io/normal/front/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938",
+          "large": "https://cards.scryfall.io/large/front/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938",
+          "png": "https://cards.scryfall.io/png/front/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.png?1783904938",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Aang, Master of Elements",
+        "mana_cost": "",
+        "type_line": "Legendary Creature — Avatar Ally",
+        "oracle_text": "Flying\nSpells you cast cost {W}{U}{B}{R}{G} less to cast. (This can reduce generic costs.)\nAt the beginning of each upkeep, you may transform Aang, Master of Elements. If you do, you gain 4 life, draw four cards, put four +1/+1 counters on him, and he deals 4 damage to each opponent.",
+        "colors": [],
+        "power": "6",
+        "toughness": "6",
+        "artist": "Fahmi Fauzi",
+        "artist_id": "71e0cca2-5ded-4a60-91aa-65a131b35987",
+        "illustration_id": "fb2fb3d9-f6ad-48ad-b050-7a60596b8bd9",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938",
+          "normal": "https://cards.scryfall.io/normal/back/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938",
+          "large": "https://cards.scryfall.io/large/back/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938",
+          "png": "https://cards.scryfall.io/png/back/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.png?1783904938",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/f/e/fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8.jpg?1783904938"
+        }
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mai, Jaded Edge",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Noble",
+    "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nExhaust — {3}: Put a double strike counter on Mai. (Activate each exhaust ability only once.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Prowess",
+      "Exhaust"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Foggy Bottom Swamp",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {B} or {G}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "B",
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "G"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Zuko, Conflicted",
+    "mana_cost": "{B}{R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Rogue",
+    "oracle_text": "At the beginning of your first main phase, choose one that hasn't been chosen and you lose 2 life —\n• Draw a card.\n• Put a +1/+1 counter on Zuko.\n• Add {R}.\n• Exile Zuko, then return him to the battlefield under an opponent's control.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "3",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "The Spirit Oasis",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Enchantment — Shrine",
+    "oracle_text": "When The Spirit Oasis enters, draw a card for each Shrine you control.\nWhenever another Shrine you control enters, draw a card.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Tiger-Dillo",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Cat Armadillo",
+    "oracle_text": "This creature can't attack or block unless you control another creature with power 4 or greater.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Cat-Owl",
+    "mana_cost": "{3}{W/U}",
+    "cmc": 4.0,
+    "type_line": "Creature — Cat Bird",
+    "oracle_text": "Flying\nWhenever this creature attacks, untap target artifact or creature.",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Canyon Crawler",
+    "mana_cost": "{4}{B}{B}",
+    "cmc": 6.0,
+    "type_line": "Creature — Spider Beast",
+    "oracle_text": "Deathtouch\nWhen this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Landcycling",
+      "Food",
+      "Typecycling",
+      "Cycling",
+      "Swampcycling",
+      "Deathtouch"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "6",
+    "toughness": "6",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Mana Ramp",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "The Mechanist, Aerial Artisan",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Artificer Ally",
+    "oracle_text": "Whenever you cast a noncreature spell, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\n{T}: Until end of turn, target artifact token you control becomes a 3/1 Construct artifact creature with flying.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Realm of Koh",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped unless you control a basic land.\n{T}: Add {B}.\n{3}{B}, {T}: Create a 1/1 colorless Spirit creature token with \"This token can't block or be blocked by non-Spirit creatures.\"",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "produced_mana": [
+      "B"
+    ],
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Sozin's Comet",
+    "mana_cost": "{3}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Each creature you control gains firebending 5 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}{R}. This mana lasts until end of combat.)\nForetell {2}{R} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Foretell"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Sokka, Bold Boomeranger",
+    "mana_cost": "{U}{R}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "When Sokka enters, discard up to two cards, then draw that many cards.\nWhenever you cast an artifact or Lesson spell, put a +1/+1 counter on Sokka.",
+    "color_identity": [
+      "R",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Knowledge Seeker",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Fox Spirit",
+    "oracle_text": "Vigilance\nWhenever you draw your second card each turn, put a +1/+1 counter on this creature.\nWhen this creature dies, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "The Unagi of Kyoshi Island",
+    "mana_cost": "{3}{U}{U}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Serpent",
+    "oracle_text": "Flash\nWard—Waterbend {4}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {4}. They can tap their artifacts and creatures to help. Each one pays for {1}.)\nWhenever an opponent draws their second card each turn, you draw two cards.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Ward",
+      "Flash",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Card Advantage",
+      "Protection"
+    ]
+  },
+  {
+    "name": "Kyoshi Island Plaza",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Enchantment — Shrine",
+    "oracle_text": "When Kyoshi Island Plaza enters, search your library for up to X basic land cards, where X is the number of Shrines you control. Put those cards onto the battlefield tapped, then shuffle.\nWhenever another Shrine you control enters, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Allies at Last",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Affinity for Allies (This spell costs {1} less to cast for each Ally you control.)\nUp to two target creatures you control each deal damage equal to their power to target creature an opponent controls.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Affinity"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": []
+  },
+  {
+    "name": "United Front",
+    "mana_cost": "{X}{W}{W}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Create X 1/1 white Ally creature tokens, then put a +1/+1 counter on each creature you control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "The Cave of Two Lovers",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Enchantment — Saga",
+    "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Create two 1/1 white Ally creature tokens.\nII — Search your library for a Mountain or Cave card, reveal it, put it into your hand, then shuffle.\nIII — Earthbend 3. (Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Energybending",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Lands you control gain all basic land types until end of turn.\nDraw a card.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Airbender Ascension",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters, airbend up to one target creature.\nWhenever a creature you control enters, put a quest counter on this enchantment.\nAt the beginning of your end step, if this enchantment has four or more quest counters on it, exile up to one target creature you control, then return it to the battlefield under its owner's control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Airbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "South Pole Voyager",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Scout Ally",
+    "oracle_text": "Whenever this creature or another Ally you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, draw a card.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "White Lotus Reinforcements",
+    "mana_cost": "{1}{G}{W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "Vigilance\nOther Allies you control get +1/+1.",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Fancy Footwork",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Untap one or two target creatures. They each get +2/+2 until end of turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": []
+  },
+  {
+    "name": "Redirect Lightning",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "As an additional cost to cast this spell, pay 5 life or pay {2}.\nChange the target of target spell or ability with a single target.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": []
+  },
+  {
+    "name": "Barrels of Blasting Jelly",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "type_line": "Artifact",
+    "oracle_text": "{1}: Add one mana of any color. Activate only once each turn.\n{5}, {T}, Sacrifice this artifact: It deals 5 damage to target creature.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Appa, Loyal Sky Bison",
+    "mana_cost": "{4}{W}{W}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Bison Ally",
+    "oracle_text": "Flying\nWhenever Appa enters or attacks, choose one —\n• Target creature you control gains flying until end of turn.\n• Airbend another target nonland permanent you control. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Airbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Crashing Wave",
+    "mana_cost": "{U}{U}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "As an additional cost to cast this spell, waterbend {X}. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nTap up to X target creatures, then distribute three stun counters among any number of tapped creatures your opponents control. (If a permanent with a stun counter would become untapped, remove one from it instead.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Giant Koi",
+    "mana_cost": "{4}{U}{U}",
+    "cmc": 6.0,
+    "type_line": "Creature — Fish",
+    "oracle_text": "Waterbend {3}: This creature can't be blocked this turn. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)\nIslandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Islandcycling",
+      "Landcycling",
+      "Typecycling",
+      "Waterbend",
+      "Cycling"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "5",
+    "toughness": "7",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp",
+      "Stax"
+    ]
+  },
+  {
+    "name": "It'll Quench Ya!",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Counter target spell unless its controller pays {2}.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Protection",
+      "Counterspells"
+    ]
+  },
+  {
+    "name": "First-Time Flyer",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Pilot Ally",
+    "oracle_text": "Flying\nThis creature gets +1/+1 as long as there's a Lesson card in your graveyard.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Combat",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Aang, Swift Savior // Aang and La, Ocean's Fury",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Avatar Ally // Legendary Creature — Avatar Spirit Ally",
+    "color_identity": [
+      "U",
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Reach",
+      "Airbend",
+      "Transform",
+      "Trample",
+      "Flash",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "Aang, Swift Savior",
+        "mana_cost": "{1}{W}{U}",
+        "type_line": "Legendary Creature — Human Avatar Ally",
+        "oracle_text": "Flash\nFlying\nWhen Aang enters, airbend up to one other target creature or spell. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nWaterbend {8}: Transform Aang.",
+        "colors": [
+          "U",
+          "W"
+        ],
+        "power": "2",
+        "toughness": "3",
+        "watermark": "watertribe",
+        "artist": "Tetsuko",
+        "artist_id": "c84b5825-0235-451f-bff2-9c54901c7a2f",
+        "illustration_id": "4b8ae5df-6efb-4bd0-aa42-b9c21ce8d048",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937",
+          "normal": "https://cards.scryfall.io/normal/front/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937",
+          "large": "https://cards.scryfall.io/large/front/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937",
+          "png": "https://cards.scryfall.io/png/front/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.png?1783904937",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Aang and La, Ocean's Fury",
+        "mana_cost": "",
+        "type_line": "Legendary Creature — Avatar Spirit Ally",
+        "oracle_text": "Reach, trample\nWhenever Aang and La attack, put a +1/+1 counter on each tapped creature you control.",
+        "colors": [],
+        "power": "5",
+        "toughness": "5",
+        "flavor_text": "With the death of the moon spirit, the Avatar's tides of vengeance crashed over the Fire Nation fleet.",
+        "artist": "Tetsuko",
+        "artist_id": "c84b5825-0235-451f-bff2-9c54901c7a2f",
+        "illustration_id": "10dd6227-6392-43cb-945f-dc9213330487",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937",
+          "normal": "https://cards.scryfall.io/normal/back/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937",
+          "large": "https://cards.scryfall.io/large/back/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937",
+          "png": "https://cards.scryfall.io/png/back/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.png?1783904937",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/8/2/82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4.jpg?1783904937"
+        }
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Sun-Blessed Peak",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {R} or {W}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "R",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Rockalanche",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Earthbend X, where X is the number of Forests you control. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nFlashback {5}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend",
+      "Flashback"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Deadly Precision",
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Sorcery",
+    "oracle_text": "As an additional cost to cast this spell, pay {4} or sacrifice an artifact or creature.\nDestroy target creature.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "The Boulder, Ready to Rumble",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Warrior Performer",
+    "oracle_text": "Whenever The Boulder attacks, earthbend X, where X is the number of creatures you control with power 4 or greater. (Target land you control becomes a 0/0 creature with haste that's still a land. Put X +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "The Earth King",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Noble Ally",
+    "oracle_text": "When The Earth King enters, create a 4/4 green Bear creature token.\nWhenever one or more creatures you control with power 4 or greater attack, search your library for up to that many basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Zhao, Ruthless Admiral",
+    "mana_cost": "{2}{B/R}{B/R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Soldier",
+    "oracle_text": "Firebending 2 (Whenever this creature attacks, add {R}{R}. This mana lasts until end of combat.)\nWhenever you sacrifice another permanent, creatures you control get +1/+0 until end of turn.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "4",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Unlucky Cabbage Merchant",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Citizen",
+    "oracle_text": "When this creature enters, create a Food token. (It's an artifact with \"{2}, {T}, Sacrifice this token: You gain 3 life.\")\nWhenever you sacrifice a Food, you may search your library for a basic land card and put it onto the battlefield tapped. If you search your library this way, put this creature on the bottom of its owner's library, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Food"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Jasmine Dragon Tea Shop",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{T}: Add one mana of any color. Spend this mana only to cast an Ally spell or activate an ability of an Ally source.\n{5}, {T}: Create a 1/1 white Ally creature token.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "C",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Kyoshi Village",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {G} or {W}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "G",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "G",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Gather the White Lotus",
+    "mana_cost": "{4}{W}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Create a 1/1 white Ally creature token for each Plains you control. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Scry"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Day of Black Sun",
+    "mana_cost": "{X}{B}{B}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Each creature with mana value X or less loses all abilities until end of turn. Destroy those creatures.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Mana Ramp"
+    ]
+  },
+  {
+    "name": "Aang's Journey",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Kicker {2} (You may pay an additional {2} as you cast this spell.)\nSearch your library for a basic land card. If this spell was kicked, instead search your library for a basic land card and a Shrine card. Reveal those cards, put them into your hand, then shuffle.\nYou gain 2 life.",
+    "color_identity": [],
+    "keywords": [
+      "Kicker"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Ba Sing Se",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped unless you control a basic land.\n{T}: Add {G}.\n{2}{G}, {T}: Earthbend 2. Activate only as a sorcery. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "produced_mana": [
+      "G"
+    ],
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Hakoda, Selfless Commander",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "Vigilance\nYou may look at the top card of your library any time.\nYou may cast Ally spells from the top of your library.\nSacrifice Hakoda: Creatures you control get +0/+5 and gain indestructible until end of turn.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Vigilance"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "5",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Protection",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Sandbenders' Storm",
+    "mana_cost": "{3}{W}",
+    "cmc": 4.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one —\n• Destroy target creature with power 4 or greater.\n• Earthbend 3. (Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Misty Palms Oasis",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {W} or {B}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Geyser Leaper",
+    "mana_cost": "{4}{U}",
+    "cmc": 5.0,
+    "type_line": "Creature — Human Warrior Ally",
+    "oracle_text": "Flying\nWaterbend {4}: Draw a card, then discard a card. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Airbending Lesson",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Airbend target nonland permanent. (Exile it. While it's exiled, its owner may cast it for {2} rather than its mana cost.)\nDraw a card.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Airbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Hog-Monkey",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Boar Monkey",
+    "oracle_text": "At the beginning of combat on your turn, target creature you control with a +1/+1 counter on it gains menace until end of turn. (It can't be blocked except by two or more creatures.)\nExhaust — {5}: Put two +1/+1 counters on this creature. (Activate each exhaust ability only once.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Exhaust"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "3",
+    "toughness": "2",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Otter-Penguin",
+    "mana_cost": "{1}{U}",
+    "cmc": 2.0,
+    "type_line": "Creature — Otter Bird",
+    "oracle_text": "Whenever you draw your second card each turn, this creature gets +1/+2 until end of turn and can't be blocked this turn.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Master Piandao",
+    "mana_cost": "{4}{W}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "First strike\nWhenever Master Piandao attacks, look at the top four cards of your library. You may reveal an Ally, Equipment, or Lesson card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "First strike"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Avatar's Wrath",
+    "mana_cost": "{2}{W}{W}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Choose up to one target creature, then airbend all other creatures. (Exile them. While each one is exiled, its owner may cast it for {2} rather than its mana cost.)\nUntil your next turn, your opponents can't cast spells from anywhere other than their hands.\nExile Avatar's Wrath.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Airbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Stax"
+    ]
+  },
+  {
+    "name": "The Legend of Kyoshi // Avatar Kyoshi",
+    "cmc": 6.0,
+    "type_line": "Enchantment — Saga // Legendary Creature — Avatar",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Transform",
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "card_faces": [
+      {
+        "object": "card_face",
+        "name": "The Legend of Kyoshi",
+        "mana_cost": "{4}{G}{G}",
+        "type_line": "Enchantment — Saga",
+        "oracle_text": "(As this Saga enters and after your draw step, add a lore counter.)\nI — Draw cards equal to the greatest power among creatures you control.\nII — Earthbend X, where X is the number of cards in your hand. That land becomes an Island in addition to its other types.\nIII — Exile this Saga, then return it to the battlefield transformed under your control.",
+        "colors": [
+          "G"
+        ],
+        "artist": "Thanh Tuấn",
+        "artist_id": "4092d03e-ede3-4946-bfdc-888fff30cfdf",
+        "illustration_id": "b6234330-fd76-4614-99b9-dcd0e7e5498c",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/front/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946",
+          "normal": "https://cards.scryfall.io/normal/front/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946",
+          "large": "https://cards.scryfall.io/large/front/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946",
+          "png": "https://cards.scryfall.io/png/front/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.png?1783904946",
+          "art_crop": "https://cards.scryfall.io/art_crop/front/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946",
+          "border_crop": "https://cards.scryfall.io/border_crop/front/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946"
+        }
+      },
+      {
+        "object": "card_face",
+        "name": "Avatar Kyoshi",
+        "mana_cost": "",
+        "type_line": "Legendary Creature — Avatar",
+        "oracle_text": "Lands you control have trample and hexproof.\n{T}: Add X mana of any one color, where X is the greatest power among creatures you control.",
+        "colors": [],
+        "power": "5",
+        "toughness": "4",
+        "flavor_text": "\"Only justice will bring peace.\"",
+        "artist": "Thanh Tuấn",
+        "artist_id": "4092d03e-ede3-4946-bfdc-888fff30cfdf",
+        "illustration_id": "f3b938e8-6e6e-4c4b-8749-45d277fb92c8",
+        "image_uris": {
+          "small": "https://cards.scryfall.io/small/back/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946",
+          "normal": "https://cards.scryfall.io/normal/back/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946",
+          "large": "https://cards.scryfall.io/large/back/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946",
+          "png": "https://cards.scryfall.io/png/back/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.png?1783904946",
+          "art_crop": "https://cards.scryfall.io/art_crop/back/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946",
+          "border_crop": "https://cards.scryfall.io/border_crop/back/4/8/4887ce64-7c98-4bd7-95db-0c43ab71cc6e.jpg?1783904946"
+        }
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Earth Kingdom General",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "When this creature enters, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)\nWhenever you put one or more +1/+1 counters on a creature, you may gain that much life. Do this only once each turn.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Curious Farm Animals",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Creature — Boar Elk Bird Ox",
+    "oracle_text": "When this creature dies, you gain 3 life.\n{2}, Sacrifice this creature: Destroy up to one target artifact or enchantment.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Turtle-Duck",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Creature — Turtle Bird",
+    "oracle_text": "{3}: Until end of turn, this creature has base power 4 and gains trample.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "0",
+    "toughness": "4",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Bitter Work",
+    "mana_cost": "{1}{R}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever you attack a player with one or more creatures with power 4 or greater, draw a card.\nExhaust — {4}: Earthbend 4. Activate only during your turn. (Target land you control becomes a 0/0 creature with haste that's still a land. Put four +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped. Activate each exhaust ability only once.)",
+    "color_identity": [
+      "G",
+      "R"
+    ],
+    "keywords": [
+      "Exhaust",
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Teo, Spirited Glider",
+    "mana_cost": "{3}{U}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Pilot Ally",
+    "oracle_text": "Flying\nWhenever one or more creatures you control with flying attack, draw a card, then discard a card. When you discard a nonland card this way, put a +1/+1 counter on target creature you control.",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Razor Rings",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Razor Rings deals 4 damage to target attacking or blocking creature. You gain life equal to the excess damage dealt this way.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Avatar Destiny",
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature you control\nEnchanted creature gets +1/+1 for each creature card in your graveyard and is an Avatar in addition to its other types.\nWhen enchanted creature dies, mill cards equal to its power. Return this card to its owner's hand and up to one creature card milled this way to the battlefield under your control.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Enchant",
+      "Mill"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Iguana Parrot",
+    "mana_cost": "{2}{U}",
+    "cmc": 3.0,
+    "type_line": "Creature — Lizard Bird Pirate",
+    "oracle_text": "Flying, vigilance\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+    "color_identity": [
+      "U"
+    ],
+    "keywords": [
+      "Flying",
+      "Prowess",
+      "Vigilance"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Iroh, Grand Lotus",
+    "mana_cost": "{3}{G}{U}{R}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Human Noble Ally",
+    "oracle_text": "Firebending 2\nDuring your turn, each non-Lesson instant and sorcery card in your graveyard has flashback. The flashback cost is equal to that card's mana cost. (You may cast a card from your graveyard for its flashback cost. Then exile it.)\nDuring your turn, each Lesson card in your graveyard has flashback {1}.",
+    "color_identity": [
+      "G",
+      "R",
+      "U"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Removal",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Invasion Tactics",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters, creatures you control get +2/+2 until end of turn.\nWhenever one or more Allies you control deal combat damage to a player, draw a card.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Hama, the Bloodbender",
+    "mana_cost": "{2}{U/B}{U/B}{U/B}",
+    "cmc": 5.0,
+    "type_line": "Legendary Creature — Human Warlock",
+    "oracle_text": "When Hama enters, target opponent mills three cards. Exile up to one noncreature, nonland card from that player's graveyard. For as long as you control Hama, you may cast the exiled card during your turn by waterbending {X} rather than paying its mana cost, where X is its mana value. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "keywords": [
+      "Mill",
+      "Waterbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Mana Ramp",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Zuko's Conviction",
+    "mana_cost": "{B}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Kicker {4} (You may pay an additional {4} as you cast this spell.)\nReturn target creature card from your graveyard to your hand. If this spell was kicked, instead put that card onto the battlefield tapped.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Kicker"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Earth Rumble",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Earthbend 2. When you do, up to one target creature you control fights target creature an opponent controls. (To earthbend 2, target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped. Creatures that fight each deal damage equal to their power to the other.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Fight",
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Fire Nation Palace",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped unless you control a basic land.\n{T}: Add {R}.\n{1}{R}, {T}: Target creature you control gains firebending 4 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}. This mana lasts until end of combat.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Azula Always Lies",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Choose one or both —\n• Target creature gets -1/-1 until end of turn.\n• Put a +1/+1 counter on target creature.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Serpent's Pass",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {U} or {B}.\n{4}, {T}, Sacrifice this land: Draw a card.",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "U"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Bumi, King of Three Trials",
+    "mana_cost": "{5}{G}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Human Noble Ally",
+    "oracle_text": "When Bumi enters, choose up to X, where X is the number of Lesson cards in your graveyard —\n• Put three +1/+1 counters on Bumi.\n• Target player scries 3.\n• Earthbend 3. (Target land you control becomes a 0/0 creature with haste that's still a land. Put three +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend",
+      "Scry"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Raven Eagle",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Bird Assassin",
+    "oracle_text": "Flying\nWhenever this creature enters or attacks, exile up to one target card from a graveyard. If a creature card is exiled this way, create a Clue token. (It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")\nWhenever you draw your second card each turn, each opponent loses 1 life and you gain 1 life.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Earthbender Ascension",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters, earthbend 2. Then search your library for a basic land card, put it onto the battlefield tapped, then shuffle.\nLandfall — Whenever a land you control enters, put a quest counter on this enchantment. When you do, if it has four or more quest counters on it, put a +1/+1 counter on target creature you control. It gains trample until end of turn.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Earthbend",
+      "Landfall"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Planetarium of Wan Shi Tong",
+    "mana_cost": "{6}",
+    "cmc": 6.0,
+    "type_line": "Legendary Artifact",
+    "oracle_text": "{1}, {T}: Scry 2.\nWhenever you scry or surveil, look at the top card of your library. You may cast that card without paying its mana cost. Do this only once each turn. (Look at the card after you scry or surveil.)",
+    "color_identity": [],
+    "keywords": [
+      "Scry"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "White Lotus Tile",
+    "mana_cost": "{4}",
+    "cmc": 4.0,
+    "type_line": "Artifact",
+    "oracle_text": "This artifact enters tapped.\n{T}: Add X mana of any one color, where X is the greatest number of creatures you control that have a creature type in common.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "mythic",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Team Avatar",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control.\n{2}{W}, Discard this card: It deals damage equal to the number of creatures you control to target creature.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Foggy Swamp Spirit Keeper",
+    "mana_cost": "{1}{U}{B}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Druid Ally",
+    "oracle_text": "Lifelink\nWhenever you draw your second card each turn, create a 1/1 colorless Spirit creature token with \"This token can't block or be blocked by non-Spirit creatures.\"",
+    "color_identity": [
+      "B",
+      "U"
+    ],
+    "keywords": [
+      "Lifelink"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Token Generation",
+      "Stax",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Walltop Sentries",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Soldier Ally",
+    "oracle_text": "Reach, deathtouch\nWhen this creature dies, if there's a Lesson card in your graveyard, you gain 2 life.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Reach",
+      "Deathtouch"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Combat",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Toph, the First Metalbender",
+    "mana_cost": "{1}{R}{G}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Warrior Ally",
+    "oracle_text": "Nontoken artifacts you control are lands in addition to their other types. (They don't gain the ability to {T} for mana.)\nAt the beginning of your end step, earthbend 2. (Target land you control becomes a 0/0 creature with haste that's still a land. Put two +1/+1 counters on it. When it dies or is exiled, return it to the battlefield tapped.)",
+    "color_identity": [
+      "G",
+      "R",
+      "W"
+    ],
+    "keywords": [
+      "Earthbend"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Swampsnare Trap",
+    "mana_cost": "{2}{B}",
+    "cmc": 3.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "This spell costs {1} less to cast if it targets a creature with flying.\nEnchant creature\nEnchanted creature gets -5/-3.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Combat"
+    ]
+  },
+  {
+    "name": "The Last Agni Kai",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature you control fights target creature an opponent controls. If the creature the opponent controls is dealt excess damage this way, add that much {R}.\nUntil end of turn, you don't lose unspent red mana as steps and phases end.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Fight"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Rocky Rebuke",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature you control deals damage equal to its power to target creature an opponent controls.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": []
+  },
+  {
+    "name": "Pretending Poxbearers",
+    "mana_cost": "{1}{W/B}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Citizen Ally",
+    "oracle_text": "When this creature dies, create a 1/1 white Ally creature token.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Glider Kids",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Pilot Ally",
+    "oracle_text": "Flying\nWhen this creature enters, scry 1. (Look at the top card of your library. You may put it on the bottom.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Scry",
+      "Flying"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "The Lion-Turtle",
+    "mana_cost": "{1}{G}{U}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Elder Cat Turtle",
+    "oracle_text": "Vigilance, reach\nWhen The Lion-Turtle enters, you gain 3 life.\nThe Lion-Turtle can't attack or block unless there are three or more Lesson cards in your graveyard.\n{T}: Add one mana of any color.",
+    "color_identity": [
+      "G",
+      "U"
+    ],
+    "keywords": [
+      "Reach",
+      "Vigilance"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "6",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Combat",
+      "Stax",
+      "Recursion"
+    ]
+  }
+]

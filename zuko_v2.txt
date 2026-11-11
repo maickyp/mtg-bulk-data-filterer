@@ -1,0 +1,1587 @@
+COMMANDER:
+Fire Lord Zuko
+
+99 DECK:
+1 Ajani, Outland Chaperone
+1 Arcane Signet
+1 Arrest
+1 Battlefield Forge
+1 Bedevil
+1 Bituminous Blast
+1 Bojuka Bog
+1 Bre of Clan Stoutarm
+1 Brotherhood's End
+1 Burning Curiosity
+1 Chaos Wand
+1 Chaos Warp
+1 Clifftop Retreat
+1 Command Tower
+1 Commander's Sphere
+1 Commune with Lava
+1 Consuming Vapors
+1 Dark-Dweller Oracle
+1 Dead Man's Chest
+1 Dire Fleet Daredevil
+1 Disrupt Decorum
+1 Double Vision
+1 Eirdu, Carrier of Dawn
+1 Ennis, Debate Moderator
+1 Etali, Primal Storm
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fellwar Stone
+1 Fetid Heath
+1 Fevered Suspicion
+1 Fiend Hunter
+1 Fire Nation Palace
+1 Flameskull
+1 Foreboding Ruins
+1 Gonti, Lord of Luxury
+1 Hopeful Initiate
+1 Hurl Through Hell
+1 Ignite the Future
+1 Isolated Chapel
+1 Izzet Chemister
+1 Kirol, Attentive First-Year
+1 Korvold and the Noble Thief
+1 Legion Loyalty
+1 Light Up the Stage
+1 Lord Jyscal Guado
+1 Mind Stone
+1 Minimus Containment
+1 Mortuary Mire
+8 Mountain
+1 Nita, Forum Conciliator
+1 Nomad Outpost
+6 Plains
+1 Plargg, Dean of Chaos
+1 Prosper, Tome-Bound
+1 Rakdos Carnarium
+1 Rakdos Charm
+1 Rakdos Signet
+1 Rapier Wit
+1 Riverguard's Reflexes
+1 Roving Actuator
+1 Rugged Prairie
+1 Shadowblood Ridge
+1 Share the Spoils
+1 Shiny Impetus
+1 Showdown of the Skalds
+1 Smoldering Marsh
+1 Sol Ring
+1 Spiral into Solitude
+1 Summon: G.F. Cerberus
+7 Swamp
+1 Tablet of Discovery
+1 Tainted Peak
+1 Talisman of Indulgence
+1 Tectonic Giant
+1 Terminate
+1 Theater of Horrors
+1 Throes of Chaos
+1 Vandalblast
+1 Wild-Magic Sorcerer
+1 You Find Some Prisoners
+1 Zuko, Exiled Prince
+
+
+
+==============================
+
+Detailed Deck Info:
+[
+  {
+    "name": "Bojuka Bog",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, exile target player's graveyard.\n{T}: Add {B}.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "common",
+    "produced_mana": [
+      "B"
+    ],
+    "tags": [
+      "Removal",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Etali, Primal Storm",
+    "mana_cost": "{4}{R}{R}",
+    "cmc": 6.0,
+    "type_line": "Legendary Creature — Elder Dinosaur",
+    "oracle_text": "Whenever Etali attacks, exile the top card of each player's library, then you may cast any number of spells from among those cards without paying their mana costs.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Foundations",
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "6",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Chaos Warp",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it's a permanent card, they put it onto the battlefield.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Command Tower",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Rakdos Carnarium",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, return a land you control to its owner's hand.\n{T}: Add {B}{R}.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Lorwyn Eclipsed Commander",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "R"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Minimus Containment",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant nonland permanent\nEnchanted permanent is a Treasure artifact with \"{T}, Sacrifice this artifact: Add one mana of any color,\" and it loses all other abilities. (If it was a creature, it's no longer a creature.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Commander Legends: Battle for Baldur's Gate",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Commander's Sphere",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Add one mana of any color in your commander's color identity.\nSacrifice this artifact: Draw a card.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Lorwyn Eclipsed Commander",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Chaos Wand",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "{4}, {T}: Target opponent exiles cards from the top of their library until they exile an instant or sorcery card. You may cast that card without paying its mana cost. Then put the exiled cards that weren't cast this way on the bottom of that library in a random order.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Outlaws of Thunder Junction Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Arcane Signet",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Add one mana of any color in your commander's color identity.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Riverguard's Reflexes",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature gets +2/+2 and gains first strike until end of turn. Untap it.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Lorwyn Eclipsed",
+    "rarity": "common",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Tectonic Giant",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Elemental Giant",
+    "oracle_text": "Whenever this creature attacks or becomes the target of a spell an opponent controls, choose one —\n• This creature deals 3 damage to each opponent.\n• Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Duskmourn: House of Horror Commander",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Shadowblood Ridge",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{1}, {T}: Add {B}{R}.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Duskmourn: House of Horror Commander",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "R"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dark-Dweller Oracle",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Goblin Shaman",
+    "oracle_text": "{1}, Sacrifice a creature: Exile the top card of your library. You may play that card this turn. (You still pay its costs. You can play a land this way only if you have an available land play remaining.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Double Masters 2022",
+    "rarity": "common",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Tablet of Discovery",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Artifact",
+    "oracle_text": "When this artifact enters, mill a card. You may play that card this turn. (To mill a card, put the top card of your library into your graveyard.)\n{T}: Add {R}.\n{T}: Add {R}{R}. Spend this mana only to cast instant and sorcery spells.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Mill"
+    ],
+    "set_name": "Secrets of Strixhaven",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Mortuary Mire",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\nWhen this land enters, you may put target creature card from your graveyard on top of your library.\n{T}: Add {B}.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [],
+    "set_name": "Commander Legends: Battle for Baldur's Gate",
+    "rarity": "common",
+    "produced_mana": [
+      "B"
+    ],
+    "tags": [
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Talisman of Indulgence",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Add {C}.\n{T}: Add {B} or {R}. This artifact deals 1 damage to you.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "C",
+      "R"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Prosper, Tome-Bound",
+    "mana_cost": "{2}{B}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Tiefling Warlock",
+    "oracle_text": "Deathtouch\nMystic Arcanum — At the beginning of your end step, exile the top card of your library. Until the end of your next turn, you may play that card.\nPact Boon — Whenever you play a card from exile, create a Treasure token.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Treasure",
+      "Deathtouch"
+    ],
+    "set_name": "Forgotten Realms Commander",
+    "rarity": "mythic",
+    "power": "1",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Legion Loyalty",
+    "mana_cost": "{6}{W}{W}",
+    "cmc": 8.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Creatures you control have myriad. (Whenever a creature with myriad attacks, for each opponent other than defending player, you may create a token copy that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "rarity": "mythic",
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Planeswalker",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Exotic Orchard",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add one mana of any color that a land an opponent controls could produce.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Hopeful Initiate",
+    "mana_cost": "{W}",
+    "cmc": 1.0,
+    "type_line": "Creature — Human Warlock",
+    "oracle_text": "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\n{2}{W}, Remove two +1/+1 counters from among creatures you control: Destroy target artifact or enchantment.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Training"
+    ],
+    "set_name": "Innistrad Remastered",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Zuko, Exiled Prince",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Noble",
+    "oracle_text": "Firebending 3 (Whenever this creature attacks, add {R}{R}{R}. This mana lasts until end of combat.)\n{3}: Exile the top card of your library. You may play that card this turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Firebending"
+    ],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "power": "4",
+    "toughness": "3",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Vandalblast",
+    "mana_cost": "{R}",
+    "cmc": 1.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Destroy target artifact you don't control.\nOverload {4}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Overload"
+    ],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Smoldering Marsh",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land — Swamp Mountain",
+    "oracle_text": "({T}: Add {B} or {R}.)\nThis land enters tapped unless you control two or more basic lands.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "R"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Kirol, Attentive First-Year",
+    "mana_cost": "{1}{R/W}{R/W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Vampire Cleric",
+    "oracle_text": "Tap two untapped creatures you control: Copy target triggered ability you control. You may choose new targets for the copy. Activate only once each turn.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Lorwyn Eclipsed",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Rakdos Signet",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact",
+    "oracle_text": "{1}, {T}: Add {B}{R}.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Duskmourn: House of Horror Commander",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "R"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ajani, Outland Chaperone",
+    "mana_cost": "{1}{W}{W}",
+    "cmc": 3.0,
+    "type_line": "Legendary Planeswalker — Ajani",
+    "oracle_text": "+1: Create a 1/1 green and white Kithkin creature token.\n−2: Ajani deals 4 damage to target tapped creature.\n−8: Look at the top X cards of your library, where X is your life total. You may put any number of nonland permanent cards with mana value 3 or less from among them onto the battlefield. Then shuffle.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Lorwyn Eclipsed",
+    "rarity": "mythic",
+    "loyalty": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Mana Ramp",
+      "Token Generation",
+      "Stax",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Hurl Through Hell",
+    "mana_cost": "{2}{B}{R}",
+    "cmc": 4.0,
+    "type_line": "Instant",
+    "oracle_text": "Exile target creature. Until the end of your next turn, you may cast that card and you may spend mana as though it were mana of any color to cast that spell.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Forgotten Realms Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Fetid Heath",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "C",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Nomad Outpost",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped.\n{T}: Add {R}, {W}, or {B}.",
+    "color_identity": [
+      "B",
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Tarkir: Dragonstorm",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "R",
+      "W"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "You Find Some Prisoners",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one —\n• Break Their Chains — Destroy target artifact.\n• Interrogate Them — Exile the top three cards of target opponent's library. Choose one of them. Until the end of your next turn, you may play that card, and you may spend mana as though it were mana of any color to cast it.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Adventures in the Forgotten Realms",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Fevered Suspicion",
+    "mana_cost": "{6}{B}{R}",
+    "cmc": 8.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Each opponent exiles cards from the top of their library until they exile a nonland card. You may cast any number of spells from among those nonland cards without paying their mana costs.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Rebound"
+    ],
+    "set_name": "Forgotten Realms Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Lord Jyscal Guado",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Spirit Cleric",
+    "oracle_text": "Flying\nAt the beginning of each end step, if you put a counter on a creature this turn, investigate. (Create a Clue token. It's an artifact with \"{2}, Sacrifice this token: Draw a card.\")",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Flying",
+      "Investigate"
+    ],
+    "set_name": "Final Fantasy Commander",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Bre of Clan Stoutarm",
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Giant Warrior",
+    "oracle_text": "{1}{W}, {T}: Another target creature you control gains flying and lifelink until end of turn.\nAt the beginning of your end step, if you gained life this turn, exile cards from the top of your library until you exile a nonland card. You may cast that card without paying its mana cost if the spell's mana value is less than or equal to the amount of life you gained this turn. Otherwise, put it into your hand.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Lorwyn Eclipsed",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Mana Ramp",
+      "Combat",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Foreboding Ruins",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don't, this land enters tapped.\n{T}: Add {B} or {R}.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "R"
+    ],
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Rakdos Charm",
+    "mana_cost": "{B}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one —\n• Exile target player's graveyard.\n• Destroy target artifact.\n• Each creature deals 1 damage to its controller.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Edge of Eternities Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Showdown of the Skalds",
+    "mana_cost": "{2}{R}{W}",
+    "cmc": 4.0,
+    "type_line": "Enchantment — Saga",
+    "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Exile the top four cards of your library. Until the end of your next turn, you may play those cards.\nII, III — Whenever you cast a spell this turn, put a +1/+1 counter on target creature you control.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Kaldheim",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Terminate",
+    "mana_cost": "{B}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Destroy target creature. It can't be regenerated.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Double Vision",
+    "mana_cost": "{3}{R}{R}",
+    "cmc": 5.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever you cast your first instant or sorcery spell each turn, copy that spell. You may choose new targets for the copy.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "New Capenna Commander",
+    "rarity": "rare",
+    "tags": []
+  },
+  {
+    "name": "Sol Ring",
+    "mana_cost": "{1}",
+    "cmc": 1.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Add {C}{C}.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "C"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Battlefield Forge",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{T}: Add {R} or {W}. This land deals 1 damage to you.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "rare",
+    "produced_mana": [
+      "C",
+      "R",
+      "W"
+    ],
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Roving Actuator",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Artifact Creature — Robot",
+    "oracle_text": "Void — When this creature enters, if a nonland permanent left the battlefield this turn or a spell was warped this turn, exile up to one target instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Void"
+    ],
+    "set_name": "Edge of Eternities",
+    "rarity": "uncommon",
+    "power": "3",
+    "toughness": "4",
+    "tags": [
+      "Removal",
+      "Mana Ramp",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Dire Fleet Daredevil",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Creature — Human Pirate",
+    "oracle_text": "First strike\nWhen this creature enters, exile target instant or sorcery card from an opponent's graveyard. You may cast it this turn, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "First strike"
+    ],
+    "set_name": "Outlaws of Thunder Junction Commander",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Isolated Chapel",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B}.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "rare",
+    "produced_mana": [
+      "B",
+      "W"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Burning Curiosity",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "As an additional cost to cast this spell, you may blight 1. (You may put a -1/-1 counter on a creature you control.)\nExile the top two cards of your library. If this spell's additional cost was paid, exile the top three cards instead. Until the end of your next turn, you may play those cards.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Blight"
+    ],
+    "set_name": "Lorwyn Eclipsed",
+    "rarity": "common",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Arrest",
+    "mana_cost": "{2}{W}",
+    "cmc": 3.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Modern Masters 2015",
+    "rarity": "common",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Light Up the Stage",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Spectacle {R} (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)\nExile the top two cards of your library. Until the end of your next turn, you may play those cards.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Spectacle"
+    ],
+    "set_name": "Duskmourn: House of Horror Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Rugged Prairie",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "rare",
+    "produced_mana": [
+      "C",
+      "R",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ignite the Future",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Exile the top three cards of your library. Until the end of your next turn, you may play those cards. If this spell was cast from a graveyard, you may play cards this way without paying their mana costs.\nFlashback {7}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flashback"
+    ],
+    "set_name": "Commander Legends: Battle for Baldur's Gate",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Fellwar Stone",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Add one mana of any color that a land an opponent controls could produce.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ennis, Debate Moderator",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Cleric",
+    "oracle_text": "When Ennis enters, exile up to one other target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.\nAt the beginning of your end step, if one or more cards were put into exile this turn, put a +1/+1 counter on Ennis.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Disrupt Decorum",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Goad all creatures you don't control. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Goad"
+    ],
+    "set_name": "Murders at Karlov Manor Commander",
+    "rarity": "rare",
+    "tags": []
+  },
+  {
+    "name": "Consuming Vapors",
+    "mana_cost": "{3}{B}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Target player sacrifices a creature of their choice. You gain life equal to that creature's toughness.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Rebound"
+    ],
+    "set_name": "Forgotten Realms Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Wild-Magic Sorcerer",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Creature — Orc Shaman Sorcerer",
+    "oracle_text": "The first spell you cast from exile each turn has cascade. (When you cast your first spell from exile, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Commander Legends: Battle for Baldur's Gate",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "3",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Evolving Wilds",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Shiny Impetus",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2 and is goaded. (It attacks each combat if able and attacks a player other than you if able.)\nWhenever enchanted creature attacks, you create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Goad",
+      "Treasure",
+      "Enchant"
+    ],
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "rarity": "common",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Tainted Peak",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}: Add {C}.\n{T}: Add {B} or {R}. Activate only if you control a Swamp.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Duskmourn: House of Horror Commander",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "C",
+      "R"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Theater of Horrors",
+    "mana_cost": "{1}{B}{R}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "At the beginning of your upkeep, exile the top card of your library.\nDuring your turn, if an opponent lost life this turn, you may play lands and cast spells from among cards exiled with this enchantment.\n{3}{R}: This enchantment deals 1 damage to target opponent or planeswalker.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Duskmourn: House of Horror Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Planeswalker"
+    ]
+  },
+  {
+    "name": "Summon: G.F. Cerberus",
+    "mana_cost": "{2}{R}{R}",
+    "cmc": 4.0,
+    "type_line": "Enchantment Creature — Saga Dog",
+    "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Surveil 1. (Look at the top card of your library. You may put it into your graveyard.)\nII — Double — When you next cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.\nIII — Triple — When you next cast an instant or sorcery spell this turn, copy it twice. You may choose new targets for the copies.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Surveil",
+      "Double"
+    ],
+    "set_name": "Final Fantasy",
+    "rarity": "rare",
+    "power": "3",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Korvold and the Noble Thief",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Enchantment — Saga",
+    "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI, II — Create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")\nIII — Exile the top three cards of target opponent's library. You may play those cards this turn.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Treasure"
+    ],
+    "set_name": "Wilds of Eldraine",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Bedevil",
+    "mana_cost": "{B}{B}{R}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Destroy target artifact, creature, or planeswalker.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Planeswalker"
+    ]
+  },
+  {
+    "name": "Mind Stone",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact",
+    "oracle_text": "{T}: Add {C}.\n{1}, {T}, Sacrifice this artifact: Draw a card.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "C"
+    ],
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Fiend Hunter",
+    "mana_cost": "{1}{W}{W}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Cleric",
+    "oracle_text": "When this creature enters, you may exile another target creature.\nWhen this creature leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Innistrad Remastered",
+    "rarity": "uncommon",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Rapier Wit",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Tap target creature. If it's your turn, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nDraw a card.",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Bituminous Blast",
+    "mana_cost": "{3}{B}{R}",
+    "cmc": 5.0,
+    "type_line": "Instant",
+    "oracle_text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nBituminous Blast deals 4 damage to target creature.",
+    "color_identity": [
+      "B",
+      "R"
+    ],
+    "keywords": [
+      "Cascade"
+    ],
+    "set_name": "Forgotten Realms Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Share the Spoils",
+    "mana_cost": "{1}{R}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters and whenever an opponent loses the game, exile the top card of each player's library.\nDuring each player's turn, that player may play a land or cast a spell from among cards exiled with this enchantment, and they may spend mana as though it were mana of any color to cast that spell. When they do, exile the top card of their library.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Forgotten Realms Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Gonti, Lord of Luxury",
+    "mana_cost": "{2}{B}{B}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Aetherborn Rogue",
+    "oracle_text": "Deathtouch\nWhen Gonti enters, look at the top four cards of target opponent's library, exile one of them face down, then put the rest on the bottom of that library in a random order. You may cast that card for as long as it remains exiled, and mana of any type can be spent to cast that spell.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Deathtouch"
+    ],
+    "set_name": "Outlaws of Thunder Junction Commander",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Clifftop Retreat",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped unless you control a Mountain or a Plains.\n{T}: Add {R} or {W}.",
+    "color_identity": [
+      "R",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "rare",
+    "produced_mana": [
+      "R",
+      "W"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Spiral into Solitude",
+    "mana_cost": "{1}{W}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nEnchanted creature can't attack or block.\n{1}{W}, Blight 1, Sacrifice this Aura: Exile enchanted creature. (To blight 1, put a -1/-1 counter on a creature you control.)",
+    "color_identity": [
+      "W"
+    ],
+    "keywords": [
+      "Blight",
+      "Enchant"
+    ],
+    "set_name": "Lorwyn Eclipsed",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Throes of Chaos",
+    "mana_cost": "{3}{R}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Retrace",
+      "Cascade"
+    ],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Izzet Chemister",
+    "mana_cost": "{2}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Goblin Wizard",
+    "oracle_text": "Haste\n{R}, {T}: Exile target instant or sorcery card from your graveyard.\n{1}{R}, {T}, Sacrifice this creature: Cast any number of cards exiled with this creature without paying their mana costs.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Haste"
+    ],
+    "set_name": "Commander Legends: Battle for Baldur's Gate",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Dead Man's Chest",
+    "mana_cost": "{1}{B}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature an opponent controls\nWhen enchanted creature dies, exile cards equal to its power from the top of its owner's library. You may cast spells from among those cards for as long as they remain exiled, and mana of any type can be spent to cast them.",
+    "color_identity": [
+      "B"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Forgotten Realms Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Fire Nation Palace",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "This land enters tapped unless you control a basic land.\n{T}: Add {R}.\n{1}{R}, {T}: Target creature you control gains firebending 4 until end of turn. (Whenever it attacks, add {R}{R}{R}{R}. This mana lasts until end of combat.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "produced_mana": [
+      "R"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Flameskull",
+    "mana_cost": "{1}{R}{R}",
+    "cmc": 3.0,
+    "type_line": "Creature — Skeleton",
+    "oracle_text": "Flying\nThis creature can't block.\nRejuvenation — When this creature dies, exile it. If you do, exile the top card of your library. Until the end of your next turn, you may play one of those cards. (If you cast Flameskull this way, you can't play the other card, and vice versa.)",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [
+      "Flying"
+    ],
+    "set_name": "Adventures in the Forgotten Realms",
+    "rarity": "mythic",
+    "power": "3",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Combat",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Commune with Lava",
+    "mana_cost": "{X}{R}{R}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Exile the top X cards of your library. Until the end of your next turn, you may play those cards.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "Forgotten Realms Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Nita, Forum Conciliator",
+    "mana_cost": "{1}{W}{B}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Human Advisor",
+    "oracle_text": "Whenever you cast a spell you don't own, put a +1/+1 counter on each creature you control.\n{2}, Sacrifice another creature: Exile target instant or sorcery card from an opponent's graveyard. You may cast it this turn, and mana of any type can be spent to cast that spell. If that spell would be put into a graveyard, exile it instead. Activate only as a sorcery.",
+    "color_identity": [
+      "B",
+      "W"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Removal",
+      "Token Generation",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Brotherhood's End",
+    "mana_cost": "{1}{R}{R}",
+    "cmc": 3.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Choose one —\n• Brotherhood's End deals 3 damage to each creature and each planeswalker.\n• Destroy all artifacts with mana value 3 or less.",
+    "color_identity": [
+      "R"
+    ],
+    "keywords": [],
+    "set_name": "The Brothers' War",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Mana Ramp",
+      "Planeswalker"
+    ]
+  }
+]

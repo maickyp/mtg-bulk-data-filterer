@@ -1,0 +1,1244 @@
+COMMANDER:
+1 Tifa Lockhart
+
+99-DECK:
+1 Aerith's Curaga Magic
+1 Asceticism
+1 Bear Umbra
+1 Biosynthic Burst
+1 Blackblade Reforged
+1 Bristly Bill, Spine Sower
+1 Contagion Engine
+1 Crash of Rhino Beetles
+1 Cycle of Renewal
+1 Doubling Season
+1 Elemental Teachings
+1 Eternal Witness
+1 Eusocial Engineering
+1 Evendo, Waking Haven
+1 Explore
+1 Fabled Passage
+1 Farhaven Elf
+1 Fireshrieker
+1 Forest
+1 Forest
+1 Forest
+2 Forest
+1 Forest
+1 Forest
+1 Forest
+1 Forest
+2 Forest
+2 Forest
+3 Forest
+2 Forest
+1 Forest
+5 Forest
+1 Forest
+1 Forest
+2 Forest
+1 Forest
+3 Forest
+1 Forgotten Ancient
+1 Garruk's Uprising
+1 Go Forth
+1 Guardian Augmenter
+1 Hardened Scales
+1 Harrow
+1 Horrid Vigor
+1 Icetill Explorer
+1 Invigorating Surge
+1 Khalni Heart Expedition
+1 Kodama's Reach
+1 Lightning Greaves
+1 Loot, Exuberant Explorer
+1 Lotus Cobra
+1 Michelangelo, Improviser
+1 Mightform Harmonizer
+1 Nature's Lore
+1 New Generation's Technique
+1 Obscuring Haze
+1 Ordeal of Nylea
+1 Origin of Metalbending
+1 Pastor da Selva
+1 Pillar Launch
+1 Planar Engineering
+1 Rampaging Baloths
+1 Rampant Growth
+1 Rampant Rejuvenator
+1 Regrowth
+1 Reliquary Tower
+1 Ride the Shoopuf
+1 Sakura-Tribe Elder
+1 Scute Swarm
+1 Scythecat Cub
+1 Search for the Frozen Esper
+1 Seedborn Muse
+1 Shared Roots
+1 Snake Umbra
+1 Soul's Majesty
+1 Sphere Grid
+1 Studious First-Year
+1 Sword of Vengeance
+1 Terrasymbiosis
+1 The Earth King
+1 The Endstone
+1 Three Visits
+1 Tidus's Brotherhood Sword
+1 Triumph of the Hordes
+1 Tromell, Seymour's Butler
+1 Vibrant Cityscape
+
+
+==============================
+
+Detailed Deck Info:
+[
+  {
+    "name": "Doubling Season",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Enchantment",
+    "oracle_text": "If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.\nIf an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Foundations",
+    "rarity": "mythic",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Fabled Passage",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Icetill Explorer",
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Insect Scout",
+    "oracle_text": "You may play an additional land on each of your turns.\nYou may play lands from your graveyard.\nLandfall — Whenever a land you control enters, mill a card.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Mill",
+      "Landfall"
+    ],
+    "set_name": "Edge of Eternities",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Kodama's Reach",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Sorcery — Arcane",
+    "oracle_text": "Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Lorwyn Eclipsed Commander",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Origin of Metalbending",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Choose one —\n• Destroy target artifact or enchantment.\n• Put a +1/+1 counter on target creature you control. It gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Michelangelo, Improviser",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Mutant Ninja Turtle",
+    "oracle_text": "Sneak {2}{G}{G} (You may cast this spell for {2}{G}{G} if you also return an unblocked attacker you control to hand during the declare blockers step. He enters tapped and attacking.)\nWhenever Michelangelo deals combat damage to a player, you may put a creature card and/or a land card from your hand onto the battlefield.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "mythic",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Three Visits",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library for a Forest card, put it onto the battlefield, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Rampaging Baloths",
+    "mana_cost": "{4}{G}{G}",
+    "cmc": 6.0,
+    "type_line": "Creature — Beast",
+    "oracle_text": "Trample\nLandfall — Whenever a land you control enters, create a 4/4 green Beast creature token.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Trample",
+      "Landfall"
+    ],
+    "set_name": "Edge of Eternities Commander",
+    "rarity": "rare",
+    "power": "6",
+    "toughness": "6",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Forgotten Ancient",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Elemental",
+    "oracle_text": "Whenever a player casts a spell, you may put a +1/+1 counter on this creature.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from this creature onto other creatures.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "rare",
+    "power": "0",
+    "toughness": "3",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Eusocial Engineering",
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Landfall — Whenever a land you control enters, create a 2/2 colorless Robot artifact creature token.\nWarp {1}{G} (You may cast this card from your hand for its warp cost. Exile this enchantment at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Warp",
+      "Landfall"
+    ],
+    "set_name": "Edge of Eternities",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Eternal Witness",
+    "mana_cost": "{1}{G}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Human Shaman",
+    "oracle_text": "When this creature enters, you may return target card from your graveyard to your hand.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Commander Masters",
+    "rarity": "uncommon",
+    "power": "2",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Garruk's Uprising",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "When this enchantment enters, if you control a creature with power 4 or greater, draw a card.\nCreatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.)\nWhenever a creature you control with power 4 or greater enters, draw a card.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Lorwyn Eclipsed Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Combat",
+      "Planeswalker"
+    ]
+  },
+  {
+    "name": "Biosynthic Burst",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Put a +1/+1 counter on target creature you control. It gains reach, trample, and indestructible until end of turn. Untap it. (Damage and effects that say \"destroy\" don't destroy it.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Edge of Eternities",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Protection",
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Triumph of the Hordes",
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Until end of turn, creatures you control get +1/+1 and gain trample and infect. (Creatures with infect deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Duel Decks: Mirrodin Pure vs. New Phyrexia",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Bear Umbra",
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nEnchanted creature gets +2/+2 and has \"Whenever this creature attacks, untap all lands you control.\"\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Umbra armor",
+      "Enchant"
+    ],
+    "set_name": "Neon Dynasty Commander",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Seedborn Muse",
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5.0,
+    "type_line": "Creature — Spirit",
+    "oracle_text": "Untap all permanents you control during each other player's untap step.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "4",
+    "tags": []
+  },
+  {
+    "name": "Contagion Engine",
+    "mana_cost": "{6}",
+    "cmc": 6.0,
+    "type_line": "Artifact",
+    "oracle_text": "When this artifact enters, put a -1/-1 counter on each creature target player controls.\n{4}, {T}: Proliferate twice. (Choose any number of permanents and/or players, then give each another counter of each kind already there. Then do it again.)",
+    "color_identity": [],
+    "keywords": [
+      "Proliferate"
+    ],
+    "set_name": "Scars of Mirrodin",
+    "rarity": "rare",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Terrasymbiosis",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever you put one or more +1/+1 counters on a creature you control, you may draw that many cards. Do this only once each turn.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Edge of Eternities",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Farhaven Elf",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Elf Druid",
+    "oracle_text": "When this creature enters, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Kaldheim Commander",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Soul's Majesty",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Draw cards equal to the power of target creature you control.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Neon Dynasty Commander",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "The Endstone",
+    "mana_cost": "{7}",
+    "cmc": 7.0,
+    "type_line": "Legendary Artifact",
+    "oracle_text": "Whenever you play a land or cast a spell, draw a card.\nAt the beginning of your end step, your life total becomes half your starting life total, rounded up.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Edge of Eternities",
+    "rarity": "mythic",
+    "tags": [
+      "Card Advantage",
+      "Life Gain/Loss"
+    ]
+  },
+  {
+    "name": "Invigorating Surge",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "Put a +1/+1 counter on target creature you control, then double the number of +1/+1 counters on that creature.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Double"
+    ],
+    "set_name": "Core Set 2021",
+    "rarity": "uncommon",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Ordeal of Nylea",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice this Aura.\nWhen you sacrifice this Aura, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Enchant"
+    ],
+    "set_name": "Foundations",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Crash of Rhino Beetles",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Creature — Insect",
+    "oracle_text": "Trample\nThis creature gets +10/+10 as long as you control ten or more lands.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Trample"
+    ],
+    "set_name": "Commander Masters",
+    "rarity": "common",
+    "power": "5",
+    "toughness": "5",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Vibrant Cityscape",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Teenage Mutant Ninja Turtles Eternal",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Harrow",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "As an additional cost to cast this spell, sacrifice a land.\nSearch your library for up to two basic land cards, put them onto the battlefield, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Edge of Eternities Commander",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Snake Umbra",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Enchantment — Aura",
+    "oracle_text": "Enchant creature\nEnchanted creature gets +1/+1 and has \"Whenever this creature deals damage to an opponent, you may draw a card.\"\nUmbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Umbra armor",
+      "Enchant"
+    ],
+    "set_name": "Neon Dynasty Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Removal",
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Elemental Teachings",
+    "mana_cost": "{4}{G}",
+    "cmc": 5.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "tags": [
+      "Card Advantage",
+      "Stax",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "Cycle of Renewal",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Instant — Lesson",
+    "oracle_text": "Sacrifice a land. Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Nature's Lore",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library for a Forest card, put that card onto the battlefield, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Ride the Shoopuf",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control.\n{5}{G}{G}: This enchantment becomes a 7/7 Beast creature in addition to its other types.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Landfall"
+    ],
+    "set_name": "Final Fantasy",
+    "rarity": "uncommon",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Evendo, Waking Haven",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land — Planet",
+    "oracle_text": "This land enters tapped.\n{T}: Add {G}.\nStation (Tap another creature you control: Put charge counters equal to its power on this Planet. Station only as a sorcery.)\n12+ | {G}, {T}: Add {G} for each creature you control.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Station"
+    ],
+    "set_name": "Edge of Eternities",
+    "rarity": "mythic",
+    "produced_mana": [
+      "G"
+    ],
+    "tags": [
+      "Stax"
+    ]
+  },
+  {
+    "name": "Rampant Growth",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Tarkir: Dragonstorm Commander",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Tifa Lockhart",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Human Monk",
+    "oracle_text": "Trample\nLandfall — Whenever a land you control enters, double Tifa Lockhart's power until end of turn.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Trample",
+      "Double",
+      "Landfall"
+    ],
+    "set_name": "Final Fantasy",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "2",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Lotus Cobra",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Snake",
+    "oracle_text": "Landfall — Whenever a land you control enters, add one mana of any color.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Landfall"
+    ],
+    "set_name": "Zendikar Rising",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "1",
+    "produced_mana": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mightform Harmonizer",
+    "mana_cost": "{2}{G}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Insect Druid",
+    "oracle_text": "Landfall — Whenever a land you control enters, double the power of target creature you control until end of turn.\nWarp {2}{G} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Warp",
+      "Double",
+      "Landfall"
+    ],
+    "set_name": "Edge of Eternities",
+    "rarity": "rare",
+    "power": "4",
+    "toughness": "4",
+    "tags": [
+      "Removal"
+    ]
+  },
+  {
+    "name": "Scythecat Cub",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Cat",
+    "oracle_text": "Trample\nLandfall — Whenever a land you control enters, put a +1/+1 counter on target creature you control. If this is the second time this ability has resolved this turn, double the number of +1/+1 counters on that creature instead.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Trample",
+      "Double",
+      "Landfall"
+    ],
+    "set_name": "Foundations Jumpstart",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Asceticism",
+    "mana_cost": "{3}{G}{G}",
+    "cmc": 5.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Creatures you control have hexproof.\n{1}{G}: Regenerate target creature. (The next time it would be destroyed this turn, instead tap it, remove it from combat, and heal all damage on it.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Heal",
+      "Regenerate"
+    ],
+    "set_name": "Scars of Mirrodin",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Protection"
+    ]
+  },
+  {
+    "name": "Shared Roots",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery — Lesson",
+    "oracle_text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Fireshrieker",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature has double strike. (It deals both first-strike and regular combat damage.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Foundations",
+    "rarity": "uncommon",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Hardened Scales",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Enchantment",
+    "oracle_text": "If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "rare",
+    "tags": []
+  },
+  {
+    "name": "Pillar Launch",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature gets +2/+2 and gains reach until end of turn. Untap it.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "common",
+    "tags": []
+  },
+  {
+    "name": "Go Forth",
+    "mana_cost": "{G}",
+    "cmc": 1.0,
+    "type_line": "Instant",
+    "oracle_text": "Choose one —\n• Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n• Target creature gets +2/+2 until end of turn.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Foundations Jumpstart",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Scute Swarm",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Insect",
+    "oracle_text": "Landfall — Whenever a land you control enters, create a 1/1 green Insect creature token. If you control six or more lands, create a token that's a copy of this creature instead.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Landfall"
+    ],
+    "set_name": "Duskmourn: House of Horror Commander",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Rampant Rejuvenator",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Creature — Plant Hydra",
+    "oracle_text": "This creature enters with two +1/+1 counters on it.\nWhen this creature dies, search your library for up to X basic land cards, where X is this creature's power, put them onto the battlefield, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Neon Dynasty Commander",
+    "rarity": "rare",
+    "power": "0",
+    "toughness": "0",
+    "tags": [
+      "Card Advantage",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Explore",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "You may play an additional land this turn.\nDraw a card.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender Eternal",
+    "rarity": "common",
+    "tags": [
+      "Card Advantage"
+    ]
+  },
+  {
+    "name": "Khalni Heart Expedition",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Landfall — Whenever a land you control enters, you may put a quest counter on this enchantment.\nRemove three quest counters from this enchantment and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Landfall"
+    ],
+    "set_name": "Commander Masters",
+    "rarity": "common",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Horrid Vigor",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Instant",
+    "oracle_text": "Target creature gains deathtouch and indestructible until end of turn.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Duskmourn: House of Horror",
+    "rarity": "common",
+    "tags": [
+      "Protection",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Reliquary Tower",
+    "mana_cost": "",
+    "cmc": 0.0,
+    "type_line": "Land",
+    "oracle_text": "You have no maximum hand size.\n{T}: Add {C}.",
+    "color_identity": [],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "uncommon",
+    "produced_mana": [
+      "C"
+    ],
+    "tags": []
+  },
+  {
+    "name": "Lightning Greaves",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0}",
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Marvel Super Heroes Commander",
+    "rarity": "uncommon",
+    "tags": [
+      "Protection",
+      "Combat"
+    ]
+  },
+  {
+    "name": "Obscuring Haze",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Instant",
+    "oracle_text": "If you control a commander, you may cast this spell without paying its mana cost.\nPrevent all damage that would be dealt this turn by creatures your opponents control.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Commander Masters",
+    "rarity": "rare",
+    "tags": [
+      "Protection"
+    ]
+  },
+  {
+    "name": "Bristly Bill, Spine Sower",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Legendary Creature — Plant Druid",
+    "oracle_text": "Landfall — Whenever a land you control enters, put a +1/+1 counter on target creature.\n{3}{G}{G}: Double the number of +1/+1 counters on each creature you control.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Double",
+      "Landfall"
+    ],
+    "set_name": "Outlaws of Thunder Junction",
+    "rarity": "mythic",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "The Earth King",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Legendary Creature — Human Noble Ally",
+    "oracle_text": "When The Earth King enters, create a 4/4 green Bear creature token.\nWhenever one or more creatures you control with power 4 or greater attack, search your library for up to that many basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Avatar: The Last Airbender",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Card Advantage",
+      "Token Generation",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Guardian Augmenter",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Creature — Troll Wizard",
+    "oracle_text": "Flash\nCommander creatures you control get +2/+2.\nCommanders you control have hexproof.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Flash"
+    ],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "2",
+    "tags": [
+      "Protection"
+    ]
+  },
+  {
+    "name": "Planar Engineering",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Sacrifice two lands. Search your library for four basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven",
+    "rarity": "rare",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Blackblade Reforged",
+    "mana_cost": "{2}",
+    "cmc": 2.0,
+    "type_line": "Legendary Artifact — Equipment",
+    "oracle_text": "Equipped creature gets +1/+1 for each land you control.\nEquip legendary creature {3}\nEquip {7}",
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Dominaria United Commander",
+    "rarity": "rare",
+    "tags": []
+  },
+  {
+    "name": "Sword of Vengeance",
+    "mana_cost": "{3}",
+    "cmc": 3.0,
+    "type_line": "Artifact — Equipment",
+    "oracle_text": "Equipped creature gets +2/+0 and has first strike, vigilance, trample, and haste.\nEquip {3}",
+    "color_identity": [],
+    "keywords": [
+      "Equip"
+    ],
+    "set_name": "Bloomburrow",
+    "rarity": "rare",
+    "tags": [
+      "Combat"
+    ]
+  },
+  {
+    "name": "Sakura-Tribe Elder",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Creature — Snake Shaman",
+    "oracle_text": "Sacrifice this creature: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Secrets of Strixhaven Commander",
+    "rarity": "common",
+    "power": "1",
+    "toughness": "1",
+    "tags": [
+      "Removal",
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Regrowth",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Return target card from your graveyard to your hand.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Modern Horizons",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Recursion"
+    ]
+  },
+  {
+    "name": "New Generation's Technique",
+    "mana_cost": "{3}{G}",
+    "cmc": 4.0,
+    "type_line": "Sorcery",
+    "oracle_text": "Sneak {2}{G} (You may cast this spell for {2}{G} if you also return an unblocked attacker you control to hand during the declare blockers step.)\nSearch your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Sneak"
+    ],
+    "set_name": "Teenage Mutant Ninja Turtles",
+    "rarity": "uncommon",
+    "tags": [
+      "Card Advantage",
+      "Stax"
+    ]
+  },
+  {
+    "name": "Tromell, Seymour's Butler",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Elf Advisor",
+    "oracle_text": "Each other nontoken creature you control enters with an additional +1/+1 counter on it.\n{1}, {T}: Proliferate X times, where X is the number of nontoken creatures you control that entered this turn. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Proliferate"
+    ],
+    "set_name": "Final Fantasy Commander",
+    "rarity": "rare",
+    "power": "2",
+    "toughness": "3",
+    "tags": [
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Sphere Grid",
+    "mana_cost": "{1}{G}",
+    "cmc": 2.0,
+    "type_line": "Enchantment",
+    "oracle_text": "Whenever a creature you control deals combat damage to a player, put a +1/+1 counter on that creature.\nUnlock Ability — Creatures you control with +1/+1 counters on them have reach and trample.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [
+      "Unlock Ability"
+    ],
+    "set_name": "Final Fantasy Commander",
+    "rarity": "rare",
+    "tags": [
+      "Combat",
+      "Token Generation"
+    ]
+  },
+  {
+    "name": "Loot, Exuberant Explorer",
+    "mana_cost": "{2}{G}",
+    "cmc": 3.0,
+    "type_line": "Legendary Creature — Beast Noble",
+    "oracle_text": "You may play an additional land on each of your turns.\n{4}{G}{G}, {T}: Look at the top six cards of your library. You may reveal a creature card with mana value less than or equal to the number of lands you control from among them and put it onto the battlefield. Put the rest on the bottom in a random order.",
+    "color_identity": [
+      "G"
+    ],
+    "keywords": [],
+    "set_name": "Foundations",
+    "rarity": "rare",
+    "power": "1",
+    "toughness": "4",
+    "tags": [
+      "Card Advantage",
+      "Mana Ramp"
+    ]
+  }
+]
